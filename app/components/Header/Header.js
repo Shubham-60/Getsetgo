@@ -25,6 +25,13 @@ export default function Header() {
         </nav>
         <div className="auth-buttons">
           <button className="login-button" onClick={toggleGate}>
+          <Image 
+              src={isGateOpen ? "./images/login.svg" : "./images/logout.svg"} 
+              alt={isGateOpen ? "Logout" : "Login"} 
+              width={20} 
+              height={20} 
+              className="gate-icon"
+            />
             {isGateOpen ? 'Logout' : 'Login'}
           </button>
         </div>
