@@ -1,0 +1,94 @@
+.shortcard {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 2px 12px rgba(80, 0, 120, 0.08);
+    overflow: hidden;
+    width: 260px;
+    margin: 90px 12px;
+    transition: transform 0.15s, box-shadow 0.15s;
+    display: flex;
+    flex-direction: column;
+}
+  
+.shortcard:hover {
+    transform: translateY(-4px) scale(1.03);
+    box-shadow: 0 6px 24px rgba(80, 0, 120, 0.13);
+}
+  
+.shortcard-img-wrapper {
+    position: relative;
+    width: 100%;
+    height: 160px;
+    overflow: hidden;
+}
+  
+.shortcard-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+  
+.shortcard-rating {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(245, 245, 255, 0.92);
+    color: rgb(134,92 ,238);
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+}
+  
+  .shortcard-rating .star {
+    color: rgb(134,92 ,238);
+    margin-left: 2px;
+    font-size: 1.1em;
+}
+  
+.shortcard-content {
+    padding: 16px 14px 14px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+  
+.shortcard-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #18181b;
+    margin-bottom: 2px;
+  }
+  
+  .shortcard-location {
+    font-size: 0.97rem;
+    color: rgb(111, 106, 125);
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+  
+.shortcard-price {
+    font-size: 1rem;
+    color: rgb(125, 106, 167);
+    font-weight: 700;
+    display: flex;
+    align-items: baseline;
+    gap: 2px;
+}
+  
+.shortcard-price .rupee {
+    font-size: 1.1em;
+}
+  
+.shortcard-price .amount {
+    margin: 0 2px;
+}
+  
+.shortcard-price .per {
+    font-size: 0.93em;
+    color: #a1a1aa;
+    margin-left: 4px;
+}

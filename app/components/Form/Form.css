@@ -1,0 +1,125 @@
+.form-bg {
+    min-height: 100vh;
+    background: #faf7ff;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+}
+
+.form-container {
+    max-width: 700px;
+    width: 100%;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 2px 16px rgba(80, 0, 120, 0.08);
+    padding: 32px;
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.form-header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.form-header p {
+    color: #6b7280;
+    font-size: 1.1rem;
+}
+
+.form-tabs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: #f3f4f6;
+    border-radius: 14px;
+    margin-bottom: 24px;
+    gap: 0;
+}
+
+.form-tab-btn {
+    border: none;
+    background: none;
+    padding: 11px 0;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+.form-tab-btn.active {
+    background: #fff;
+    font-weight: bold;
+    height: 80%;
+    margin: 6px 5px 0 5px;
+    }
+
+.form-section {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.form-label {
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.form-interests {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.form-interest-btn {
+    padding: 8px 18px;
+    border-radius: 14px;
+    font-size: 1rem;
+    border: 1px solid #d1d5db;
+    background: #fff;
+    color: #374151;
+    cursor: pointer;
+}
+
+.form-interest-btn.selected {
+    background: #ede9fe; 
+    color: #6d28d9; 
+    border-color: #a78bfa;
+}
+
+.form-select {
+    width: 100%;
+    border-radius: 14px;
+    background: #f9fafb;
+    border: 1px solid #d1d5db;
+    padding: 10px 12px;
+    font-size: 1rem;
+}
+
+.form-submit-btn {
+    width: 100%;
+    margin-top: 16px;
+    border-radius: 14px;
+    background: linear-gradient(to right, #a78bfa, #7c3aed);
+    color: #fff;
+    font-size: 1.1rem;
+    padding: 14px 0;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+}
+
+.form-helper-text {
+    color: #9ca3af;
+    font-size: 0.95rem;
+    text-align: center;
+    margin-top: 8px;
+}
+
+  
