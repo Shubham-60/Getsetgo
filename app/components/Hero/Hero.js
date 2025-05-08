@@ -12,7 +12,7 @@ export default function Hero() {
       <div className="hero-content">
         <h1>Find Your <span className="mid-part">Perfect Getaway</span></h1>
         <p>Explore handpicked destinations tailored to your interests, budget, and travel dates.</p>
-        <a href="#recommendations" className="hero-button">Start Your Journey</a>
+        <a href="#travel-form" className="hero-button">Start Your Journey</a>
       </div>
     </div>
   );

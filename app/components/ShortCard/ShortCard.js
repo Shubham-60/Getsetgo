@@ -1,13 +1,7 @@
 import React from 'react';
 import './style.css';
 
-function ShortCard({ 
-  image, 
-  title, 
-  location, 
-  price, 
-  rating 
-}) {
+function ShortCard({ image, title, location, price, rating }) {
   return (
     <div className="shortcard">
       <div className="shortcard-img-wrapper">

@@ -1,0 +1,23 @@
+.intro-header {
+    background-color: #202635;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    width: 100%;
+}
+  
+.intro-header h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+    letter-spacing: -0.5px;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+  
+  .intro-header p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    opacity: 0.9;
+    line-height: 1.6;
+}

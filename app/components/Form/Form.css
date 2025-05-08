@@ -122,4 +122,69 @@
     margin-top: 8px;
 }
 
+.range-slider-container {
+    margin-bottom: 16px;
+}
   
+.budget-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    color: #6b7280;
+}
+  
+.budget-value {
+    font-weight: bold;
+    color: #6d28d9;
+    font-size: 1.1rem;
+}
+  
+.budget-slider {
+    width: 100%;
+    height: 8px;
+    background: #e5e7eb;
+    border-radius: 8px;
+    appearance: none;
+    outline: none;
+}
+  
+.budget-slider::-webkit-slider-thumb {
+    appearance: none;
+    width: 24px;
+    height: 24px;
+    background: white;
+    border: 2px solid #a78bfa;
+    border-radius: 50%;
+    cursor: pointer;
+}
+  
+.form-row {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+  
+.form-col {
+    flex: 1;
+}
+  
+.input-with-icon {
+    position: relative;
+}
+  
+.input-icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6b7280;
+}
+  
+.form-input {
+    width: 100%;
+    padding: 10px 12px 10px 36px;
+    border: 1px solid #d1d5db;
+    border-radius: 14px;
+    font-size: 1rem;
+    background: #f9fafb;
+}

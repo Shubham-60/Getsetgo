@@ -1,0 +1,48 @@
+.info-section {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 48px;
+  background: #fcfaff;
+  padding: 60px 0;
+}
+
+.info-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 390px;
+  text-align: center;
+}
+  
+.info-icon {
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: rgb(228,222,252);
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+.info-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #18181b;
+}
+  
+.info-desc {
+  color: #6b7280;
+  font-size: 1.08rem;
+  font-weight: 500;
+}
+
+.info-icon img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
