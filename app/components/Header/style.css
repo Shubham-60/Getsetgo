@@ -85,3 +85,24 @@ nav > a {
 .gate-icon {
     font-size: 1.2em;
 }
+
+nav > a {
+    position: relative;
+    margin-right: 1.6rem;
+    text-decoration: none;
+}
+
+nav > a::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #8a6fff;
+    transition: width 0.3s;
+}
+
+nav > a:hover::after {
+    width: 100%;
+}
