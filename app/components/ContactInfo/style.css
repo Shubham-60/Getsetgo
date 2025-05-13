@@ -1,0 +1,72 @@
+.contact-info-container {
+    padding: 0;
+    margin-top: 20px;
+}
+
+.contact-info-heading {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #202635;
+}
+
+.contact-info-intro {
+    margin-bottom: 40px;
+    color: #4b5563;
+    line-height: 1.6;
+}
+
+.contact-method {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.contact-icon {
+    width: 48px;
+    height: 48px;
+    background-color: #f3f0ff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    color: #8a6fff;
+}
+
+.contact-details h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0 0 8px 0;
+    color: #1f2937;
+}
+
+.contact-details p {
+    margin: 0;
+    color: #4b5563;
+    line-height: 1.5;
+}
+
+.office-hours {
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 40px;
+    background-color: rgb(249, 245, 254);
+}
+
+.office-hours h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0 0 12px 0;
+    color: #1f2937;
+}
+
+.hours-table {
+    width: 100%;
+}
+
+.hours-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+}

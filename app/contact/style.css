@@ -1,0 +1,20 @@
+.contact-layout {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 0 40px 0; 
+    gap: 60px;
+}
+
+.contact-layout > :first-child {
+    flex: 1;
+    order: 1;
+    margin-left: 0; 
+    padding-left: 0;
+}
+
+.contact-layout > :last-child {
+    flex: 1;
+    order: 2;
+}
