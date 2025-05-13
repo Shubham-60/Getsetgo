@@ -37,7 +37,7 @@ export default function ContactInfo() {
                 </div>
                 <div className="contact-details">
                     <h3>Email Address</h3>
-                    <p>info@nomadrupee.com<br />support@nomadrupee.com</p>
+                    <p>info@getsetgo.com<br />support@getsetgo.com</p>
                 </div>
             </div>
 
