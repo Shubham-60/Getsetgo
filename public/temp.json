@@ -1,0 +1,132 @@
+[
+    {
+        "theme": "Beaches",
+        "Image":"https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Z29hfGVufDB8fDB8fHww",
+        "title": "Goa: Sun, Sand & Heritage",
+        "location": "Goa, India",
+        "description": "Experience the vibrant beaches, rich Portuguese heritage, and lively nightlife of Goa, India's most popular beach destination. From serene stretches of sand to bustling markets, Goa offers a perfect blend of relaxation and excitement.",
+        "card_highlight": "Beach Life, Portuguese Charm, Nightlife",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Unwind on the golden sands of Baga, Anjuna, or Palolem Beach",
+            "Indulge in thrilling water sports and adventure activities",
+            "Savor the flavors of authentic Goan cuisine and fresh seafood",
+            "Explore vibrant night markets and experience the lively nightlife",
+            "Discover historical churches and temples with unique Indo-Portuguese architecture"
+        ],
+        "highlights": [
+            "Pristine beaches (Baga, Anjuna, Palolem)",
+            "Water sports and adventure activities",
+            "Goan cuisine and seafood",
+            "Night markets and vibrant nightlife",
+            "Churches and temples with unique architecture"
+        ],
+        "price_per_person": 15000,
+        "duration_days": 4,
+        "about": {
+            "text": "Goa, a former Portuguese colony, is renowned for its beautiful coastline, stretching along the Arabian Sea. It’s a melting pot of cultures, evident in its architecture, food, and lifestyle. The northern part of Goa is famous for its lively parties and night markets, while South Goa offers a more tranquil and luxurious experience. Beyond the beaches, explore ancient churches, spice plantations, and vibrant local markets.",
+            "best_time_to_visit": "November to February (pleasant weather, ideal for beach activities)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Goa",
+                "price_per_person": 5500,
+                "departure_time": "07:30 AM",
+                "departure_location": "Delhi",
+                "duration": "2h 30m",
+                "stops": "Direct",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Goa"
+            },
+            {
+                "airline": "Vistara",
+                "route": "Mumbai to Goa",
+                "price_per_person": 4800,
+                "departure_time": "11:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "1h 15m",
+                "stops": "Direct",
+                "arrival_time": "12:15 PM",
+                "arrival_location": "Goa"
+            },
+            {
+                "airline": "Air India",
+                "route": "Bengaluru to Goa",
+                "price_per_person": 6200,
+                "departure_time": "09:15 AM",
+                "departure_location": "Bengaluru",
+                "duration": "1h 30m",
+                "stops": "Direct",
+                "arrival_time": "10:45 AM",
+                "arrival_location": "Goa"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "W Goa",
+                "location": "Vagator Beach, Goa",
+                "image_url": "https://example.com/w_goa.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Infinity Pool",
+                    "Spa",
+                    "Beach Access",
+                    "Multiple Restaurants",
+                    "Fitness Center"
+                ],
+                "price_per_night": 22000
+            },
+            {
+                "name": "Taj Exotica Resort & Spa",
+                "location": "Benaulim, South Goa",
+                "image_url": "https://example.com/taj_exotica_goa.jpg",
+                "ratings": 4.8,
+                "amenities": [
+                    "Private Beach",
+                    "Golf Course",
+                    "Ayurvedic Spa",
+                    "Kids Club",
+                    "Fine Dining"
+                ],
+                "price_per_night": 18000
+            },
+            {
+                "name": "Lemon Tree Amarante Beach Resort",
+                "location": "Candolim, North Goa",
+                "image_url": "https://example.com/lemon_tree_goa.jpg",
+                "ratings": 4.2,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Restaurant",
+                    "Bar",
+                    "Free Wi-Fi",
+                    "Garden"
+                ],
+                "price_per_night": 7500
+            }
+        ],
+        "activities": [
+            {
+                "title": "Baga Beach Water Sports Combo",
+                "ratings": 4.5,
+                "time_required": "3 hours",
+                "brief": "Indulge in thrilling water sports like parasailing, jet skiing, and banana boat rides at the lively Baga Beach.",
+                "price": 3000
+            },
+            {
+                "title": "Goan Spice Plantation Tour with Lunch",
+                "ratings": 4.7,
+                "time_required": "4-5 hours",
+                "brief": "Discover the aromatic world of Goan spices, learn about their cultivation, and enjoy a traditional Goan lunch.",
+                "price": 1500
+            },
+            {
+                "title": "Dudhsagar Waterfalls Trip",
+                "ratings": 4.6,
+                "time_required": "8 hours",
+                "brief": "Embark on an adventurous journey to the majestic Dudhsagar Waterfalls, one of India's tallest waterfalls, located amidst lush greenery.",
+                "price": 2500
+            }
+        ]
+    }]

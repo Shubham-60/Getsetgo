@@ -23,7 +23,7 @@ export default function Header() {
           <Link href="/about">About</Link>
           <Link href="/contact">Contact</Link>
         </nav>
-        <div className="auth-buttons">
+        {/* <div className="auth-buttons">
           <button className="login-button" onClick={toggleGate}>
           <Image 
               src={isGateOpen ? "./images/login.svg" : "./images/logout.svg"} 
@@ -34,7 +34,7 @@ export default function Header() {
             />
             {isGateOpen ? 'Logout' : 'Login'}
           </button>
-        </div>
+        </div> */}
       </div>
     </header>
   );

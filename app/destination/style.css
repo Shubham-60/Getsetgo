@@ -1,0 +1,539 @@
+
+.destination-page {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.destination-container {
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.destination-hero-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.destination-info {
+    padding: 40px;
+}
+
+.destination-info h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.destination-description {
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.highlights-section h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.highlights-list {
+    list-style: none;
+    padding: 0;
+}
+
+.highlights-list li {
+    padding: 8px 0;
+    padding-left: 20px;
+    position: relative;
+}
+
+.highlights-list li:before {
+    content: "•";
+    color: #8a6fff;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}
+
+.best-time {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+.best-time h3 {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.time-info {
+    display: flex;
+    align-items: center;
+}
+
+.calendar-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+/* Tabs Section */
+.tabs-section {
+    border-top: 1px solid #eee;
+}
+
+.tabs {
+    display: flex;
+    background-color: #f8f9fa;
+}
+
+.tab {
+    flex: 1;
+    padding: 15px 20px;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 1rem;
+    color: #666;
+    border-bottom: 3px solid transparent;
+}
+
+.tab.active {
+    color: #8a6fff;
+    border-bottom-color: #8a6fff;
+    background-color: white;
+}
+
+.tab:hover {
+    background-color: #f0f0f0;
+}
+
+.tab-content {
+    padding: 40px;
+}
+
+/* Flights Section */
+
+.flights-section h3 {
+    margin-bottom: 30px;
+    color: #333;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.flight-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.flight-info {
+    flex: 1;
+}
+
+.airline {
+    margin-bottom: 15px;
+}
+
+.airline strong {
+    font-size: 1.1rem;
+}
+
+.airline p {
+    color: #666;
+    margin: 5px 0 0 0;
+}
+
+.flight-times {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.departure,
+.arrival {
+    text-align: center;
+}
+
+.departure strong,
+.arrival strong {
+    display: block;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.departure p,
+.arrival p {
+    color: #666;
+    margin: 0;
+}
+
+.duration {
+    text-align: center;
+    color: #666;
+}
+
+.duration span {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.flight-price {
+    text-align: right;
+}
+
+.price {
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #8a6fff;
+    margin-bottom: 5px;
+}
+
+.per-person {
+    color: #666;
+    font-size: 0.9rem;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.select-btn {
+    background-color: #8a6fff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.select-btn:hover {
+    background-color: #7a5eec;
+}
+
+/* Hotels Section */
+
+.hotels-section h3 {
+    margin-bottom: 30px;
+    color: #333;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.hotel-card {
+    display: flex;
+    background: white;
+    border: 1px solid #eee;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.hotel-card:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+.hotel-image {
+    width: 250px;
+    height: 180px;
+    flex-shrink: 0;
+}
+
+.hotel-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.hotel-details {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hotel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 12px;
+}
+
+.hotel-header h4 {
+    margin: 0;
+    font-size: 1.3rem;
+    color: #333;
+    font-weight: 600;
+    flex: 1;
+    margin-right: 15px;
+}
+
+.hotel-rating {
+    display: flex;
+    align-items: center;
+    background-color: #fff3cd;
+    padding: 4px 10px;
+    border-radius: 20px;
+    flex-shrink: 0;
+}
+
+.hotel-rating .star {
+    color: #ffc107;
+    margin-right: 4px;
+    font-size: 0.9rem;
+}
+
+.rating-value {
+    font-weight: 600;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+.hotel-location {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    color: #666;
+}
+
+.location-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+}
+
+.hotel-amenities {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: auto;
+}
+
+.amenity {
+    background-color: #f8f9fa;
+    color: #555;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    border: 1px solid #e9ecef;
+    white-space: nowrap;
+}
+
+.hotel-booking {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-left: 1px solid #eee;
+    min-width: 180px;
+    background-color: #fafafa;
+}
+
+.hotel-price {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hotel-price .price {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #8a6fff;
+    margin-bottom: 4px;
+    line-height: 1;
+}
+
+.per-night {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.book-now-btn {
+    background-color: #8a6fff;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.95rem;
+    min-width: 120px;
+}
+
+.book-now-btn:hover {
+    background-color: #7a5eec;
+    transform: translateY(-1px);
+}
+
+/* Activities Section */
+
+.activities-section h3 {
+    margin-bottom: 30px;
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.activities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.activity-card {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.activity-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.activity-header h4 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+    font-weight: 600;
+}
+
+.activity-rating {
+    display: flex;
+    align-items: center;
+    background-color: #fff3cd;
+    padding: 4px 8px;
+    border-radius: 12px;
+}
+
+.activity-rating .star {
+    color: #ffc107;
+    margin-right: 3px;
+    font-size: 0.9rem;
+}
+
+.activity-rating .rating-value {
+    font-weight: 600;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+.activity-duration {
+    display: flex;
+    align-items: center;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.time-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+}
+
+.activity-brief {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-size: 0.95rem;
+}
+
+.activity-price .price {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #8a6fff;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .flight-card {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .flight-times {
+        gap: 20px;
+    }
+
+    .flight-price {
+        text-align: left;
+        width: 100%;
+    }
+
+    .hotel-card {
+        flex-direction: column;
+    }
+    
+    .hotel-image {
+        width: 100%;
+        height: 200px;
+    }
+    
+    .hotel-booking {
+        border-left: none;
+        border-top: 1px solid #eee;
+        min-width: auto;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: white;
+    }
+    
+    .hotel-price {
+        margin-bottom: 0;
+        text-align: left;
+    }
+    
+    .hotel-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .hotel-header h4 {
+        margin-right: 0;
+        margin-bottom: 8px;
+    }
+    
+    .hotel-rating {
+        align-self: flex-start;
+    }
+
+    .activities-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .hotel-booking {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .hotel-price {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    
+    .amenity {
+        font-size: 0.8rem;
+        padding: 3px 10px;
+    }
+}
