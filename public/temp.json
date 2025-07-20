@@ -129,4 +129,2092 @@
                 "price": 2500
             }
         ]
-    }]
+    },
+    {
+        "theme": "Beaches",
+        "Image" : "https://media.istockphoto.com/id/496923233/photo/island-beach.jpg?s=612x612&w=0&k=20&c=jFbW9qPzYaqpQS-kHP5TE-_caaS8pBE4IL44jR1seJc=",
+        "title": "Andaman & Nicobar: Tropical Paradise",
+        "location": "Bay of Bengal, India",
+        "description": "Discover the untouched beauty of the Andaman & Nicobar Islands, a tropical paradise with pristine beaches, coral reefs, and lush rainforests. Ideal for diving, snorkeling, and serene escapes.",
+        "card_highlight": "Pristine Beaches, Diving, Island Escape",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Relax on the world-renowned Radhanagar Beach, often called Asia's Best Beach",
+            "Explore vibrant coral reefs and diverse marine life with world-class diving and snorkeling",
+            "Visit the historic Cellular Jail and learn about India's freedom struggle",
+            "Trek through lush mangrove forests and discover the islands' rich biodiversity",
+            "Witness unique natural phenomena like bioluminescent plankton at night"
+        ],
+        "highlights": [
+            "Radhanagar Beach (Asia's Best Beach)",
+            "World-class diving and snorkeling spots",
+            "Cellular Jail historical site",
+            "Lush mangrove forests and rich biodiversity",
+            "Unique marine life and vibrant coral reefs"
+        ],
+        "price_per_person": 28000,
+        "duration_days": 5,
+        "about": {
+            "text": "The Andaman & Nicobar Islands are an archipelago of over 300 islands, famous for their palm-lined, white-sand beaches, mangroves, and tropical rainforests. Many of these are uninhabited, offering a sense of unspoiled nature. Port Blair, the capital, serves as the gateway, while Havelock and Neil Islands are popular for their breathtaking beaches and underwater activities. The islands are also historically significant, particularly the infamous Cellular Jail.",
+            "best_time_to_visit": "October to May (calm seas, perfect for water activities)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Chennai to Port Blair",
+                "price_per_person": 7800,
+                "departure_time": "06:45 AM",
+                "departure_location": "Chennai",
+                "duration": "2h 15m",
+                "stops": "Direct",
+                "arrival_time": "09:00 AM",
+                "arrival_location": "Port Blair"
+            },
+            {
+                "airline": "Air India",
+                "route": "Kolkata to Port Blair",
+                "price_per_person": 8500,
+                "departure_time": "10:10 AM",
+                "departure_location": "Kolkata",
+                "duration": "2h 30m",
+                "stops": "Direct",
+                "arrival_time": "12:40 PM",
+                "arrival_location": "Port Blair"
+            },
+            {
+                "airline": "Vistara",
+                "route": "Delhi to Port Blair",
+                "price_per_person": 12000,
+                "departure_time": "09:00 AM",
+                "departure_location": "Delhi",
+                "duration": "4h 0m",
+                "stops": "1 Stop (Chennai/Kolkata)",
+                "arrival_time": "01:00 PM",
+                "arrival_location": "Port Blair"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj Exotica Resort & Spa, Andamans",
+                "location": "Havelock Island",
+                "image_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUTEhMWFhUXFx0bGRcXGBseGhoeHhgYGB8eHR0hHiggGh0lHRkYIjEiJSouLi4uGh8zODMtNygtLisBCgoKDg0OGxAQGzUlHyYtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQMGAAECBwj/xABDEAACAQIEAwYEBAUDAQYHAAABAhEDIQAEEjEFQVEGEyJhcYEykaHwQrHB0RQjUmLhcoLxFTNDU5LC0gcWJGOisrP8A8QAGgAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QALREAAgICAQMDAgYCAwAAAAAAAAECEQMhEgQxQTJRYROBBRQisdHw4fFCcZH/2gASCAgBAQABAAAAA==",
+                "ratings": 4.9,
+                "amenities": [
+                    "Private Villas",
+                    "Rainforest Spa",
+                    "Scuba Diving Centre",
+                    "Infinity Pool",
+                    "Yoga Deck"
+                ],
+                "price_per_night": 25000
+            },
+            {
+                "name": "Symphony Palms Beach Resort & Spa",
+                "location": "Havelock Island",
+                "image_url": "https://example.com/symphony_palms.jpg",
+                "ratings": 4.3,
+                "amenities": [
+                    "Beachfront",
+                    "Spa",
+                    "Restaurant",
+                    "Water Sports Desk",
+                    "Kids Play Area"
+                ],
+                "price_per_night": 12000
+            },
+            {
+                "name": "SeaShell, Port Blair",
+                "location": "Port Blair",
+                "image_url": "https://example.com/seashell_portblair.jpg",
+                "ratings": 4.1,
+                "amenities": [
+                    "Rooftop Restaurant",
+                    "Sea View Rooms",
+                    "Free Wi-Fi",
+                    "Travel Desk",
+                    "Laundry Service"
+                ],
+                "price_per_night": 8000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Snorkeling at Elephant Beach, Havelock",
+                "ratings": 4.8,
+                "time_required": "3-4 hours (including travel)",
+                "brief": "Explore vibrant coral reefs and abundant marine life with a guided snorkeling experience at the pristine Elephant Beach.",
+                "price": 2500
+            },
+            {
+                "title": "Glass Bottom Boat Ride in North Bay",
+                "ratings": 4.5,
+                "time_required": "2 hours",
+                "brief": "Witness the mesmerizing underwater world without getting wet, perfect for non-swimmers and families.",
+                "price": 1000
+            },
+            {
+                "title": "Cellular Jail Light and Sound Show",
+                "ratings": 4.7,
+                "time_required": "1 hour",
+                "brief": "Relive the poignant history of India's freedom struggle through a captivating light and sound spectacle at the historic Cellular Jail.",
+                "price": 300
+            }
+        ]
+    },
+    {
+        "theme": "Beaches",
+        "title": "Maldives: Luxury & Underwater Wonders",
+        "location": "Indian Ocean",
+        "description": "An archipelago of 26 atolls, the Maldives is a tropical nation in the Indian Ocean, known for its pristine beaches, blue lagoons, and extensive reefs. Overwater bungalows and luxury resorts define this dream destination.",
+        "card_highlight": "Luxury Resorts, Snorkeling, Privacy",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Stay in luxurious overwater or beachfront villas for ultimate relaxation",
+            "Discover unparalleled snorkeling and scuba diving in crystal-clear lagoons",
+            "Witness vibrant coral reefs and diverse marine life up close",
+            "Enjoy exclusive private island resorts for an intimate getaway",
+            "Indulge in world-class spa treatments and wellness experiences"
+        ],
+        "highlights": [
+            "Luxurious overwater and beachfront villas",
+            "Unparalleled snorkeling and scuba diving",
+            "Vibrant coral reefs and diverse marine life",
+            "Private island resorts and unparalleled privacy",
+            "World-class spas and wellness experiences"
+        ],
+        "price_per_person": 60000,
+        "duration_days": 5,
+        "about": {
+            "text": "The Maldives is a collection of thousands of tiny islands, each a jewel of white sand and turquoise water. It's globally renowned as a honeymooner's paradise and a top diving destination. The unique 'one island, one resort' concept ensures privacy and exclusivity. Activities largely revolve around the ocean, from exploring vibrant reefs to indulging in luxurious spa treatments.",
+            "best_time_to_visit": "November to April (dry season, calm seas)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Bengaluru to Malé",
+                "price_per_person": 18000,
+                "departure_time": "08:30 AM",
+                "departure_location": "Bengaluru",
+                "duration": "3h 0m",
+                "stops": "Direct",
+                "arrival_time": "11:30 AM",
+                "arrival_location": "Malé"
+            },
+            {
+                "airline": "Air India",
+                "route": "Mumbai to Malé",
+                "price_per_person": 19500,
+                "departure_time": "10:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "3h 15m",
+                "stops": "Direct",
+                "arrival_time": "01:15 PM",
+                "arrival_location": "Malé"
+            },
+            {
+                "airline": "Vistara",
+                "route": "Delhi to Malé",
+                "price_per_person": 22000,
+                "departure_time": "09:45 AM",
+                "departure_location": "Delhi",
+                "duration": "4h 30m",
+                "stops": "1 Stop (Bengaluru/Mumbai)",
+                "arrival_time": "02:15 PM",
+                "arrival_location": "Malé"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "W Maldives",
+                "location": "Fesdu Island, North Ari Atoll",
+                "image_url": "https://example.com/w_maldives.jpg",
+                "ratings": 4.8,
+                "amenities": [
+                    "Overwater Villas",
+                    "Underwater Restaurant",
+                    "Private Plunge Pools",
+                    "Spa",
+                    "Water Sports Center"
+                ],
+                "price_per_night": 70000
+            },
+            {
+                "name": "Conrad Maldives Rangali Island",
+                "location": "Rangali Island, South Ari Atoll",
+                "image_url": "https://example.com/conrad_maldives.jpg",
+                "ratings": 4.9,
+                "amenities": [
+                    "Underwater Residence (The Muraka)",
+                    "Glass-domed Restaurant",
+                    "Spa",
+                    "Infinity Pools",
+                    "Kids Club"
+                ],
+                "price_per_night": 85000
+            },
+            {
+                "name": "Centara Ras Fushi Resort & Spa Maldives",
+                "location": "North Malé Atoll",
+                "image_url": "https://example.com/centara_maldives.jpg",
+                "ratings": 4.5,
+                "amenities": [
+                    "Overwater & Beach Villas",
+                    "Spa",
+                    "PADI Dive Centre",
+                    "Multiple Dining Options",
+                    "Adults-Only"
+                ],
+                "price_per_night": 45000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Snorkeling Excursion with Manta Rays",
+                "ratings": 4.9,
+                "time_required": "2-3 hours",
+                "brief": "Swim alongside majestic manta rays in their natural habitat, a truly unforgettable experience.",
+                "price": 8000
+            },
+            {
+                "title": "Sunset Dolphin Cruise",
+                "ratings": 4.7,
+                "time_required": "2 hours",
+                "brief": "Enjoy a breathtaking sunset cruise while spotting playful dolphins jumping and swimming in the ocean.",
+                "price": 5000
+            },
+            {
+                "title": "Underwater Scooter Adventure",
+                "ratings": 4.6,
+                "time_required": "1 hour",
+                "brief": "Explore the vibrant coral gardens and marine life from a unique perspective using an underwater scooter, no diving experience required.",
+                "price": 6500
+            }
+        ]
+    },
+    {
+        "theme": "Mountains",
+        "title": "Manali: Valley of Gods & Adventure",
+        "location": "Himachal Pradesh, India",
+        "description": "Nestled in the Beas River Valley, Manali is a popular hill station offering breathtaking views of snow-capped mountains, lush valleys, and adventure opportunities.",
+        "card_highlight": "Scenic Mountains, Adventure Sports, Serene Retreat",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Witness the majestic beauty of Rohtang Pass and Solang Valley",
+            "Experience thrilling adventure sports like paragliding and river rafting",
+            "Explore the unique Hadimba Devi Temple and the charming Old Manali village",
+            "Relax in the natural hot springs at Vashisht",
+            "Stroll through picturesque apple orchards and embark on scenic treks"
+        ],
+        "highlights": [
+            "Rohtang Pass and Solang Valley",
+            "Adventure sports (paragliding, river rafting)",
+            "Hadimba Devi Temple and Old Manali charm",
+            "Hot springs at Vashisht",
+            "Apple orchards and scenic treks"
+        ],
+        "price_per_person": 18000,
+        "duration_days": 4,
+        "about": {
+            "text": "Manali serves as the gateway to Lahaul and Spiti district as well as Leh. It's a popular spot for adventure enthusiasts, honeymooners, and nature lovers alike. The town is surrounded by towering peaks and offers a serene escape from city life. Its charming Old Manali area, ancient temples, and nearby villages add to its rustic appeal.",
+            "best_time_to_visit": "October to June (pleasant for sightseeing, May-June for snow at higher altitudes)"
+        },
+        "flights": [
+            {
+                "airline": "Alliance Air",
+                "route": "Delhi to Kullu (Bhuntar)",
+                "price_per_person": 6000,
+                "departure_time": "08:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 30m",
+                "stops": "Direct",
+                "arrival_time": "09:30 AM",
+                "arrival_location": "Kullu"
+            },
+            {
+                "airline": "IndiGo",
+                "route": "Mumbai to Kullu (Bhuntar)",
+                "price_per_person": 9500,
+                "departure_time": "06:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "3h 30m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "09:30 AM",
+                "arrival_location": "Kullu"
+            },
+            {
+                "airline": "Vistara",
+                "route": "Bengaluru to Kullu (Bhuntar)",
+                "price_per_person": 11000,
+                "departure_time": "05:30 AM",
+                "departure_location": "Bengaluru",
+                "duration": "4h 0m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "09:30 AM",
+                "arrival_location": "Kullu"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Himalayan",
+                "location": "Manali, Himachal Pradesh",
+                "image_url": "https://example.com/the_himalayan.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Luxury Castle Stay",
+                    "Heated Pool",
+                    "Spa",
+                    "Fine Dining",
+                    "Mountain Views"
+                ],
+                "price_per_night": 15000
+            },
+            {
+                "name": "ManuAllaya – The Resort & Spa",
+                "location": "Manali, Himachal Pradesh",
+                "image_url": "https://example.com/manuallaya.jpg",
+                "ratings": 4.4,
+                "amenities": [
+                    "Indoor Pool",
+                    "Spa",
+                    "Multiple Restaurants",
+                    "Kids Zone",
+                    "Scenic Location"
+                ],
+                "price_per_night": 9000
+            },
+            {
+                "name": "Hotel Holiday Inn Manali",
+                "location": "Manali, Himachal Pradesh",
+                "image_url": "https://example.com/holiday_inn_manali.jpg",
+                "ratings": 4.0,
+                "amenities": [
+                    "Garden",
+                    "Restaurant",
+                    "Bar",
+                    "Free Wi-Fi",
+                    "Parking"
+                ],
+                "price_per_night": 5500
+            }
+        ],
+        "activities": [
+            {
+                "title": "Solang Valley Adventure Activities",
+                "ratings": 4.7,
+                "time_required": "4-5 hours",
+                "brief": "Enjoy paragliding, zorbing, ATV rides, and cable car rides in the picturesque Solang Valley.",
+                "price": 3500
+            },
+            {
+                "title": "Rohtang Pass Day Trip",
+                "ratings": 4.5,
+                "time_required": "8-10 hours",
+                "brief": "Embark on a scenic drive to the magnificent Rohtang Pass (subject to weather conditions), offering stunning snowscapes.",
+                "price": 4000
+            },
+            {
+                "title": "Beas River Rafting",
+                "ratings": 4.6,
+                "time_required": "2 hours",
+                "brief": "Experience the thrill of white-water rafting on the gushing Beas River, suitable for beginners and experienced rafters.",
+                "price": 1800
+            }
+        ]
+    },
+    {
+        "theme": "Mountains",
+        "title": "Leh-Ladakh: High Passes & Monasteries",
+        "location": "Jammu & Kashmir, India",
+        "description": "A land of high passes, ancient monasteries, and stark, breathtaking landscapes. Leh-Ladakh offers a unique blend of adventure, culture, and serene beauty.",
+        "card_highlight": "High Altitude, Buddhist Culture, Adventure",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Marvel at the mesmerizing Pangong Lake and serene Tso Moriri",
+            "Experience the optical illusion of Magnetic Hill and visit Gurudwara Pathar Sahib",
+            "Explore ancient Buddhist monasteries like Thiksey and Hemis",
+            "Drive through Khardung La Pass, one of the world's highest motorable roads",
+            "Embark on high-altitude trekking adventures and experience unique camping"
+        ],
+        "highlights": [
+            "Pangong Lake and Tso Moriri",
+            "Magnetic Hill and Gurudwara Pathar Sahib",
+            "Ancient Buddhist monasteries (Thiksey, Hemis)",
+            "Khardung La Pass (one of the highest motorable roads)",
+            "High-altitude trekking and camping"
+        ],
+        "price_per_person": 35000,
+        "duration_days": 7,
+        "about": {
+            "text": "Ladakh, often called 'Little Tibet,' is a region of India administered as a union territory. Its stark, dramatic landscapes are punctuated by vibrant Buddhist monasteries perched on rocky outcrops. The high-altitude deserts and cold temperatures make it a challenging yet rewarding destination. It's a hub for adventure sports like trekking and motorcycling, and a spiritual retreat for those seeking tranquility.",
+            "best_time_to_visit": "May to October (roads are open, pleasant weather)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Leh",
+                "price_per_person": 8000,
+                "departure_time": "05:30 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 20m",
+                "stops": "Direct",
+                "arrival_time": "06:50 AM",
+                "arrival_location": "Leh"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Leh",
+                "price_per_person": 12000,
+                "departure_time": "04:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "3h 30m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "08:00 AM",
+                "arrival_location": "Leh"
+            },
+            {
+                "airline": "Vistara",
+                "route": "Bengaluru to Leh",
+                "price_per_person": 13500,
+                "departure_time": "04:00 AM",
+                "departure_location": "Bengaluru",
+                "duration": "4h 0m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "08:00 AM",
+                "arrival_location": "Leh"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Grand Dragon Ladakh",
+                "location": "Leh, Ladakh",
+                "image_url": "https://example.com/grand_dragon_ladakh.jpg",
+                "ratings": 4.5,
+                "amenities": [
+                    "Heated Rooms",
+                    "Multi-Cuisine Restaurant",
+                    "Spa",
+                    "Oxygen Cafe",
+                    "Mountain Views"
+                ],
+                "price_per_night": 12000
+            },
+            {
+                "name": "Hotel Shangrila",
+                "location": "Leh, Ladakh",
+                "image_url": "https://example.com/hotel_shangrila_ladakh.jpg",
+                "ratings": 4.2,
+                "amenities": [
+                    "Garden",
+                    "Restaurant",
+                    "Free Wi-Fi",
+                    "Laundry Service",
+                    "Travel Desk"
+                ],
+                "price_per_night": 7000
+            },
+            {
+                "name": "Ladakh Sarai Resort",
+                "location": "Leh, Ladakh",
+                "image_url": "https://example.com/ladakh_sarai.jpg",
+                "ratings": 4.3,
+                "amenities": [
+                    "Traditional Cottages",
+                    "Organic Garden",
+                    "Restaurant",
+                    "Peaceful Ambiance",
+                    "Village Walks"
+                ],
+                "price_per_night": 9500
+            }
+        ],
+        "activities": [
+            {
+                "title": "Pangong Lake Day Tour",
+                "ratings": 4.8,
+                "time_required": "Full Day (10-12 hours)",
+                "brief": "Witness the stunning beauty of Pangong Tso, a high-altitude saline lake, famous for its changing colors.",
+                "price": 3000
+            },
+            {
+                "title": "Monastery Tour (Hemis, Thiksey, Shey)",
+                "ratings": 4.7,
+                "time_required": "6-7 hours",
+                "brief": "Explore the majestic ancient Buddhist monasteries of Ladakh, soaking in their spiritual ambiance and rich history.",
+                "price": 1800
+            },
+            {
+                "title": "Camel Safari in Nubra Valley (Double Humped Camel)",
+                "ratings": 4.6,
+                "time_required": "2 hours",
+                "brief": "Experience a unique camel safari on the double-humped Bactrian camels amidst the sand dunes of Nubra Valley.",
+                "price": 1200
+            }
+        ]
+    },
+    {
+        "theme": "Mountains",
+        "title": "Darjeeling: Tea Gardens & Toy Train",
+        "location": "West Bengal, India",
+        "description": "Perched in the Lesser Himalayas, Darjeeling is a charming hill station famed for its tea gardens, scenic beauty, and the iconic Darjeeling Himalayan Railway.",
+        "card_highlight": "Tea Plantations, Himalayan Views, Toy Train",
+        "long_highlight": [
+            "Ride the iconic Darjeeling Himalayan Railway, a UNESCO World Heritage 'Toy Train'",
+            "Witness the spectacular sunrise over Kanchenjunga from Tiger Hill",
+            "Explore lush tea gardens and take a fascinating tea factory tour",
+            "Visit the unique Batasia Loop and the serene Ghoom Monastery",
+            "Admire the charming colonial architecture scattered throughout the town"
+        ],
+        "highlights": [
+            "Darjeeling Himalayan Railway (Toy Train)",
+            "Tiger Hill sunrise over Kanchenjunga",
+            "Lush tea gardens and tea factory tours",
+            "Batasia Loop and Ghoom Monastery",
+            "Charming colonial architecture"
+        ],
+        "price_per_person": 16000,
+        "duration_days": 3,
+        "about": {
+            "text": "Darjeeling, known as the 'Queen of the Hills,' is a UNESCO World Heritage site thanks to its toy train. Its sprawling tea estates produce the famous Darjeeling tea, often called the 'Champagne of Teas.' The town offers panoramic views of Mt. Kanchenjunga, the world's third-highest peak. Its cool climate, vibrant local culture, and colonial charm make it a popular getaway.",
+            "best_time_to_visit": "March to May and October to November (pleasant weather, clear views)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Kolkata to Bagdogra",
+                "price_per_person": 4500,
+                "departure_time": "08:00 AM",
+                "departure_location": "Kolkata",
+                "duration": "1h 10m",
+                "stops": "Direct",
+                "arrival_time": "09:10 AM",
+                "arrival_location": "Bagdogra"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Delhi to Bagdogra",
+                "price_per_person": 7000,
+                "departure_time": "10:30 AM",
+                "departure_location": "Delhi",
+                "duration": "2h 0m",
+                "stops": "Direct",
+                "arrival_time": "12:30 PM",
+                "arrival_location": "Bagdogra"
+            },
+            {
+                "airline": "Vistara",
+                "route": "Mumbai to Bagdogra",
+                "price_per_person": 9000,
+                "departure_time": "07:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "3h 0m",
+                "stops": "1 Stop (Kolkata)",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Bagdogra"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Mayfair Darjeeling",
+                "location": "Darjeeling, West Bengal",
+                "image_url": "https://example.com/mayfair_darjeeling.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Colonial Charm",
+                    "Spa",
+                    "Heated Pool",
+                    "Library",
+                    "Valley Views"
+                ],
+                "price_per_night": 10000
+            },
+            {
+                "name": "Windamere Hotel",
+                "location": "Darjeeling, West Bengal",
+                "image_url": "https://example.com/windamere_darjeeling.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Historic Property",
+                    "Gardens",
+                    "Fireplace",
+                    "Old-world Charm",
+                    "Tea Lounge"
+                ],
+                "price_per_night": 13000
+            },
+            {
+                "name": "Hotel Sonam Delek",
+                "location": "Darjeeling, West Bengal",
+                "image_url": "https://example.com/sonam_delek_darjeeling.jpg",
+                "ratings": 4.1,
+                "amenities": [
+                    "Mountain Views",
+                    "Restaurant",
+                    "Free Wi-Fi",
+                    "Heating",
+                    "Terrace"
+                ],
+                "price_per_night": 5000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Tiger Hill Sunrise Tour",
+                "ratings": 4.8,
+                "time_required": "3 hours (early morning)",
+                "brief": "Witness the spectacular sunrise over the Kanchenjunga peak from Tiger Hill, a truly magical experience.",
+                "price": 800
+            },
+            {
+                "title": "Joy Ride on Darjeeling Himalayan Railway",
+                "ratings": 4.9,
+                "time_required": "2 hours",
+                "brief": "Experience a nostalgic ride on the UNESCO-listed 'Toy Train' through charming landscapes.",
+                "price": 1500
+            },
+            {
+                "title": "Tea Garden & Factory Tour",
+                "ratings": 4.5,
+                "time_required": "2 hours",
+                "brief": "Explore a working tea estate, learn about the tea-making process, and enjoy a fresh brew.",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "theme": "Historical Sites",
+        "title": "Agra: Taj Mahal & Mughal Grandeur",
+        "location": "Uttar Pradesh, India",
+        "description": "Explore the iconic Taj Mahal, one of the world's most beautiful monuments to love, alongside other magnificent Mughal-era historical sites.",
+        "card_highlight": "Taj Mahal, Mughal History, UNESCO Site",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Marvel at the iconic Taj Mahal during sunrise or sunset",
+            "Explore the massive red sandstone Agra Fort, a UNESCO World Heritage site",
+            "Visit the abandoned city of Fatehpur Sikri, another UNESCO gem",
+            "Shop for exquisite marble handicrafts and local leather goods",
+            "Experience local cuisine including the famous Agra petha"
+        ],
+        "highlights": [
+            "Taj Mahal (UNESCO World Heritage Site)",
+            "Agra Fort (UNESCO World Heritage Site)",
+            "Fatehpur Sikri (UNESCO World Heritage Site)",
+            "Itmad-ud-Daula's Tomb (Baby Taj)",
+            "Mughal architecture and history"
+        ],
+        "price_per_person": 12500,
+        "duration_days": 3,
+        "about": {
+            "text": "Experience the majestic beauty of the Taj Mahal, one of the seven wonders of the world. Built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal, this ivory-white marble mausoleum is a testament to eternal love. Agra, once the capital of the Mughal Empire, is home to other UNESCO World Heritage sites like Agra Fort and Fatehpur Sikri, showcasing the grandeur of Mughal architecture and history.",
+            "best_time_to_visit": "October to March when the weather is pleasant and cool"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Agra",
+                "price_per_person": 3500,
+                "departure_time": "08:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 15m",
+                "stops": "Direct",
+                "arrival_time": "09:15 AM",
+                "arrival_location": "Agra"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Agra",
+                "price_per_person": 6000,
+                "departure_time": "07:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "2h 30m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Agra"
+            },
+            {
+                "airline": "Air India",
+                "route": "Bengaluru to Agra",
+                "price_per_person": 7500,
+                "departure_time": "06:45 AM",
+                "departure_location": "Bengaluru",
+                "duration": "3h 15m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Agra"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Oberoi Amarvilas",
+                "location": "Agra, Uttar Pradesh (near Taj Mahal)",
+                "image_url": "https://example.com/oberoi_amarvilas.jpg",
+                "ratings": 4.9,
+                "amenities": [
+                    "Taj Mahal Views from all rooms",
+                    "Luxury Spa",
+                    "Outdoor Pool",
+                    "Fine Dining",
+                    "Personal Butlers"
+                ],
+                "price_per_night": 20000
+            },
+            {
+                "name": "ITC Mughal, a Luxury Collection Hotel",
+                "location": "Agra, Uttar Pradesh",
+                "image_url": "https://example.com/itc_mughal.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Mughal Gardens",
+                    "Spa",
+                    "Outdoor Pool",
+                    "Multiple Restaurants",
+                    "Golf Putting Green"
+                ],
+                "price_per_night": 12000
+            },
+            {
+                "name": "Hotel Clarks Shiraz",
+                "location": "Agra, Uttar Pradesh",
+                "image_url": "https://example.com/clarks_shiraz.jpg",
+                "ratings": 4.0,
+                "amenities": [
+                    "Rooftop Pool",
+                    "Taj Mahal View Rooms",
+                    "Restaurant",
+                    "Bar",
+                    "Gym"
+                ],
+                "price_per_night": 6000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Sunrise Taj Mahal Tour",
+                "ratings": 4.9,
+                "time_required": "4 hours",
+                "brief": "Experience the magical sunrise at the iconic Taj Mahal with a knowledgeable guide explaining its history and architecture.",
+                "price": 2000
+            },
+            {
+                "title": "Agra Fort Exploration",
+                "ratings": 4.7,
+                "time_required": "3 hours",
+                "brief": "Explore the massive red sandstone Agra Fort, a UNESCO World Heritage site and former imperial residence of the Mughal Dynasty.",
+                "price": 1000
+            },
+            {
+                "title": "Fatehpur Sikri Day Trip",
+                "ratings": 4.6,
+                "time_required": "5-6 hours",
+                "brief": "Visit the abandoned Mughal capital of Fatehpur Sikri, known for its well-preserved architecture and historical significance.",
+                "price": 1500
+            }
+        ]
+    },
+    {
+        "theme": "Historical Sites",
+        "title": "Hampi: Ancient Ruins & Vijayanagara Glory",
+        "location": "Karnataka, India",
+        "description": "Step back in time amidst the mystical ruins of Hampi, a UNESCO World Heritage Site and the former capital of the Vijayanagara Empire.",
+        "card_highlight": "Ancient Ruins, UNESCO Site, Stone Architecture",
+        "ratings":  4.8,
+        "long_highlight": [
+            "Marvel at the intricate carvings of Virupaksha Temple and Vittala Temple",
+            "Witness the engineering marvel of the Stone Chariot and musical pillars",
+            "Explore the grand Elephant Stables and the elegant Lotus Mahal",
+            "Enjoy a serene coracle ride on the Tungabhadra River",
+            "Discover the unique boulder-strewn landscapes and countless ancient temples"
+        ],
+        "highlights": [
+            "Virupaksha Temple and Vittala Temple",
+            "Stone Chariot and musical pillars",
+            "Elephant Stables and Lotus Mahal",
+            "Tungabhadra River and coracle rides",
+            "Boulder-strewn landscapes and ancient temples"
+        ],
+        "price_per_person": 14000,
+        "duration_days": 3,
+        "about": {
+            "text": "Hampi is a captivating historical destination that transports visitors to the glorious era of the Vijayanagara Empire. Spread over a vast area, the ruins are a testament to the architectural brilliance and engineering prowess of the past. The unique boulder-strewn landscape adds to its mystique, creating a surreal backdrop for ancient temples, palaces, and marketplaces. It's a photographer's delight and a history buff's dream.",
+            "best_time_to_visit": "October to March (pleasant weather for exploration)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Bengaluru to Hubballi (nearest airport)",
+                "price_per_person": 4000,
+                "departure_time": "09:00 AM",
+                "departure_location": "Bengaluru",
+                "duration": "1h 10m",
+                "stops": "Direct",
+                "arrival_time": "10:10 AM",
+                "arrival_location": "Hubballi"
+            },
+            {
+                "airline": "Alliance Air",
+                "route": "Mumbai to Hubballi",
+                "price_per_person": 5500,
+                "departure_time": "07:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "1h 30m",
+                "stops": "Direct",
+                "arrival_time": "09:00 AM",
+                "arrival_location": "Hubballi"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Delhi to Hubballi",
+                "price_per_person": 8000,
+                "departure_time": "06:00 AM",
+                "departure_location": "Delhi",
+                "duration": "3h 0m",
+                "stops": "1 Stop (Bengaluru)",
+                "arrival_time": "09:00 AM",
+                "arrival_location": "Hubballi"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Evolve Back Hampi",
+                "location": "Hampi, Karnataka",
+                "image_url": "https://example.com/evolve_back_hampi.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Luxury Stay",
+                    "Spa",
+                    "Infinity Pool",
+                    "Traditional Architecture",
+                    "Proximity to Ruins"
+                ],
+                "price_per_night": 18000
+            },
+            {
+                "name": "Clarks Inn Hampi",
+                "location": "Hampi, Karnataka",
+                "image_url": "https://example.com/clarks_inn_hampi.jpg",
+                "ratings": 4.1,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Restaurant",
+                    "Free Wi-Fi",
+                    "Garden",
+                    "Travel Desk"
+                ],
+                "price_per_night": 7000
+            },
+            {
+                "name": "Hotel Hampi International",
+                "location": "Hospet (near Hampi)",
+                "image_url": "https://example.com/hampi_international.jpg",
+                "ratings": 3.8,
+                "amenities": [
+                    "Restaurant",
+                    "Bar",
+                    "Parking",
+                    "Room Service",
+                    "Laundry Service"
+                ],
+                "price_per_night": 4500
+            }
+        ],
+        "activities": [
+            {
+                "title": "Hampi UNESCO Heritage Site Tour",
+                "ratings": 4.8,
+                "time_required": "Full Day (6-8 hours)",
+                "brief": "Explore the major temples and ruins of Hampi with a guided tour, including Virupaksha Temple, Vittala Temple, and more.",
+                "price": 2500
+            },
+            {
+                "title": "Coracle Ride on Tungabhadra River",
+                "ratings": 4.6,
+                "time_required": "1 hour",
+                "brief": "Enjoy a traditional coracle boat ride on the scenic Tungabhadra River, offering unique views of the riverside ruins.",
+                "price": 500
+            },
+            {
+                "title": "Sunset at Hemakuta Hill",
+                "ratings": 4.7,
+                "time_required": "2 hours",
+                "brief": "Witness a breathtaking sunset over the ancient ruins from Hemakuta Hill, a popular viewpoint in Hampi.",
+                "price": 300
+            }
+        ]
+    },
+    {
+        "theme": "Food & Cuisine",
+        "Image": "https://images.unsplash.com/photo-1549520281-a957d69288e8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YW1yaXRzYXJ8ZW58MHx8MHx8fDA%3D",
+        "title": "Amritsar: Culinary Delights of Punjab",
+        "location": "Punjab, India",
+        "description": "Amritsar, the spiritual capital of Sikhs, is also a paradise for food lovers, offering a rich tapestry of Punjabi flavors from traditional dhabas to modern eateries.",
+        "card_highlight": "Punjabi Cuisine, Street Food, Dhaba Culture",
+        "ratings": 4.7,
+        "long_highlight": [
+            "Savor authentic Amritsari Kulcha with chole and chutney",
+            "Indulge in creamy Amritsari Lassi and various milk products",
+            "Taste the famous 'Makki di Roti and Sarson da Saag'",
+            "Explore the vibrant street food scene around the Golden Temple",
+            "Experience a traditional Punjabi thali at a local dhaba"
+        ],
+        "highlights": [
+            "Amritsari Kulcha, Chole, Lassi",
+            "Makki di Roti & Sarson da Saag",
+            "Street food near Golden Temple",
+            "Authentic Dhaba experience",
+            "Jalebi, Pinni, Halwa"
+        ],
+        "price_per_person": 10000,
+        "duration_days": 3,
+        "about": {
+            "text": "Amritsar is not just about its spiritual heritage; it's a city that lives and breathes food. The culinary scene is dominated by rich, flavorful Punjabi dishes, from butter-laden parathas to spicy curries and delectable sweets. The city's dhabas (roadside eateries) are legendary, offering hearty meals that reflect the essence of Punjabi hospitality. Food walks are a popular way to explore the diverse offerings.",
+            "best_time_to_visit": "October to March (pleasant weather for exploring and dining)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Amritsar",
+                "price_per_person": 4000,
+                "departure_time": "07:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 0m",
+                "stops": "Direct",
+                "arrival_time": "08:00 AM",
+                "arrival_location": "Amritsar"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Amritsar",
+                "price_per_person": 6500,
+                "departure_time": "09:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "2h 30m",
+                "stops": "Direct",
+                "arrival_time": "12:00 PM",
+                "arrival_location": "Amritsar"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Hyatt Regency Amritsar",
+                "location": "Amritsar, Punjab",
+                "image_url": "https://example.com/hyatt_amritsar.jpg",
+                "ratings": 4.5,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Spa",
+                    "Multiple Restaurants",
+                    "Fitness Center",
+                    "Free Wi-Fi"
+                ],
+                "price_per_night": 7000
+            },
+            {
+                "name": "Radisson Blu Hotel Amritsar",
+                "location": "Amritsar, Punjab",
+                "image_url": "https://example.com/radisson_blu_amritsar.jpg",
+                "ratings": 4.3,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Spa",
+                    "Restaurant & Bar",
+                    "Fitness Center",
+                    "Airport Shuttle"
+                ],
+                "price_per_night": 6000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Amritsar Food Walk Tour",
+                "ratings": 4.8,
+                "time_required": "3-4 hours",
+                "brief": "Explore the culinary heart of Amritsar, tasting various street foods, dhaba delicacies, and local sweets.",
+                "price": 1000
+            },
+            {
+                "title": "Dinner at a Traditional Dhaba",
+                "ratings": 4.6,
+                "time_required": "2 hours",
+                "brief": "Experience a hearty Punjabi meal with local specialties like Sarson da Saag and Makki di Roti.",
+                "price": 800
+            }
+        ]
+    },
+    {
+        "theme": "Food & Cuisine",
+        "Image": "https://images.unsplash.com/photo-1547595627-c6b8c4c70034?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhcmR5JTIwbW91bnQlMjBhYmludGhvfGVufDB8fDB8fHww",
+        "title": "Lucknow: Nawab's Kitchen & Awadhi Delights",
+        "location": "Uttar Pradesh, India",
+        "description": "Lucknow, the 'City of Nawabs', is synonymous with its refined Awadhi cuisine, known for its slow-cooked delicacies, fragrant biryanis, and melt-in-your-mouth kebabs.",
+        "card_highlight": "Awadhi Cuisine, Kebabs, Biryani, Royal Flavors",
+        "ratings": 4.6,
+        "long_highlight": [
+            "Taste the legendary Galawati Kebabs and Kakori Kebabs",
+            "Savor aromatic Lucknowi Biryani, a culinary masterpiece",
+            "Explore the bustling Aminabad market for local food and sweets",
+            "Indulge in a variety of traditional desserts like Shahi Tukda and Kulfi",
+            "Experience the 'Dastarkhwan' (traditional dining experience) at heritage restaurants"
+        ],
+        "highlights": [
+            "Galawati & Kakori Kebabs",
+            "Lucknowi Biryani",
+            "Aminabad street food",
+            "Shahi Tukda, Kulfi",
+            "Tunday Kababi"
+        ],
+        "price_per_person": 9000,
+        "duration_days": 2,
+        "about": {
+            "text": "Lucknow's culinary heritage dates back to the Mughal and Awadhi Nawabs, who were patrons of fine dining. The city's cuisine is characterized by its subtle flavors, rich ingredients, and elaborate cooking techniques, particularly 'dum' style cooking. Kebabs are a highlight, with the Galawati kebab being world-renowned for its melt-in-your-mouth texture. Beyond the savory, Lucknow also offers a delightful array of sweets.",
+            "best_time_to_visit": "October to March (pleasant weather for exploring the city's food scene)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Lucknow",
+                "price_per_person": 3800,
+                "departure_time": "08:30 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 15m",
+                "stops": "Direct",
+                "arrival_time": "09:45 AM",
+                "arrival_location": "Lucknow"
+            },
+            {
+                "airline": "Air India",
+                "route": "Mumbai to Lucknow",
+                "price_per_person": 6000,
+                "departure_time": "10:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "2h 0m",
+                "stops": "Direct",
+                "arrival_time": "12:00 PM",
+                "arrival_location": "Lucknow"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj Mahal Lucknow",
+                "location": "Lucknow, Uttar Pradesh",
+                "image_url": "https://example.com/taj_lucknow.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Spa",
+                    "Multiple Restaurants",
+                    "Fitness Center",
+                    "Gardens"
+                ],
+                "price_per_night": 8000
+            },
+            {
+                "name": "Hyatt Regency Lucknow",
+                "location": "Lucknow, Uttar Pradesh",
+                "image_url": "https://example.com/hyatt_lucknow.jpg",
+                "ratings": 4.4,
+                "amenities": [
+                    "Rooftop Pool",
+                    "Spa",
+                    "Dining Options",
+                    "Fitness Center",
+                    "City Views"
+                ],
+                "price_per_night": 6500
+            }
+        ],
+        "activities": [
+            {
+                "title": "Lucknow Food Trail Tour",
+                "ratings": 4.7,
+                "time_required": "3 hours",
+                "brief": "A guided culinary journey through Lucknow's old city, tasting iconic kebabs, biryani, and sweets.",
+                "price": 900
+            },
+            {
+                "title": "Cooking Class: Awadhi Cuisine",
+                "ratings": 4.5,
+                "time_required": "4 hours",
+                "brief": "Learn the secrets of traditional Awadhi cooking, from preparing spice blends to perfecting dum biryani.",
+                "price": 2500
+            }
+        ]
+    },
+    {
+        "theme": "Wildlife",
+        "Image": "https://images.unsplash.com/photo-1577002010214-411a00772714?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFudGhhbWJvcmV8ZW58MHx8MHx8fDA%3D",
+        "title": "Ranthambore: Tiger Trails & Fort Heritage",
+        "location": "Rajasthan, India",
+        "description": "Ranthambore National Park is one of India's most renowned tiger reserves, set against the backdrop of the historic Ranthambore Fort, offering a unique wildlife and historical experience.",
+        "card_highlight": "Tiger Safari, Wildlife Photography, Ancient Fort",
+        "ratings": 4.7,
+        "long_highlight": [
+            "Embark on thrilling tiger safaris to spot the majestic Bengal tiger",
+            "Explore the ancient Ranthambore Fort, a UNESCO World Heritage Site",
+            "Witness diverse wildlife including leopards, deer, and various bird species",
+            "Enjoy picturesque landscapes with lakes and dense forests",
+            "Capture stunning wildlife photographs in their natural habitat"
+        ],
+        "highlights": [
+            "Bengal Tiger spotting",
+            "Ranthambore Fort exploration",
+            "Birdwatching, Leopard spotting",
+            "Lakes and scenic beauty",
+            "Jeep/Canter safaris"
+        ],
+        "price_per_person": 18000,
+        "duration_days": 3,
+        "about": {
+            "text": "Ranthambore National Park is a former royal hunting ground and is now a significant wildlife sanctuary. Its varied terrain, including lakes, forests, and steep rocky hills, makes it a perfect habitat for tigers and other wildlife. The ruins of the 10th-century Ranthambore Fort add a unique historical dimension to the park, offering panoramic views and a glimpse into Rajasthan's past.",
+            "best_time_to_visit": "October to June (best for tiger sightings, March-May for high chances)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Jaipur (nearest airport)",
+                "price_per_person": 3500,
+                "departure_time": "09:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 0m",
+                "stops": "Direct",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Jaipur"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Jaipur",
+                "price_per_person": 5500,
+                "departure_time": "07:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "1h 45m",
+                "stops": "Direct",
+                "arrival_time": "09:15 AM",
+                "arrival_location": "Jaipur"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Oberoi Vanyavilas Wildlife Resort",
+                "location": "Ranthambore, Rajasthan",
+                "image_url": "https://example.com/oberoi_vanyavilas.jpg",
+                "ratings": 4.9,
+                "amenities": [
+                    "Luxury Tents",
+                    "Private Plunge Pools",
+                    "Spa",
+                    "Jungle Safari",
+                    "Wildlife Library"
+                ],
+                "price_per_night": 25000
+            },
+            {
+                "name": "Sawai Madhopur Lodge - IHCL SeleQtions",
+                "location": "Ranthambore, Rajasthan",
+                "image_url": "https://example.com/sawai_madhopur_lodge.jpg",
+                "ratings": 4.5,
+                "amenities": [
+                    "Heritage Property",
+                    "Outdoor Pool",
+                    "Spa",
+                    "Dining",
+                    "Safari Arrangements"
+                ],
+                "price_per_night": 12000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Morning Jeep Safari in Ranthambore",
+                "ratings": 4.8,
+                "time_required": "3 hours",
+                "brief": "Experience an early morning jeep safari for the best chances of spotting tigers and other wildlife.",
+                "price": 2000
+            },
+            {
+                "title": "Ranthambore Fort Visit",
+                "ratings": 4.6,
+                "time_required": "2-3 hours",
+                "brief": "Explore the historic Ranthambore Fort, offering panoramic views of the national park.",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "theme": "Wildlife",
+        "Image": "https://images.unsplash.com/photo-1502602844838-89547d75a1e7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGthbmhhJTIwbmF0aW9uYWwlMjBwYXJrfGVufDB8fDB8fHww",
+        "title": "Kanha: The Real Jungle Book Experience",
+        "location": "Madhya Pradesh, India",
+        "description": "Kanha National Park, with its lush Sal forests, expansive grasslands, and diverse wildlife, is often associated with Rudyard Kipling's 'The Jungle Book'. It's a prime habitat for tigers and the rare Barasingha.",
+        "card_highlight": "Tiger Reserve, Barasingha, Biodiversity",
+        "ratings": 4.6,
+        "long_highlight": [
+            "Go on a wildlife safari to spot tigers, leopards, and wild dogs",
+            "Witness the conservation efforts for the endangered Hardground Barasingha",
+            "Explore the picturesque Kanha grasslands, a unique ecosystem",
+            "Enjoy birdwatching with over 300 species of birds",
+            "Visit Bamni Dadar (Sunset Point) for breathtaking views of the park"
+        ],
+        "highlights": [
+            "Tiger & Leopard spotting",
+            "Barasingha (Swamp Deer)",
+            "Lush Sal forests & grasslands",
+            "Birdwatching opportunities",
+            "Conservation efforts"
+        ],
+        "price_per_person": 17000,
+        "duration_days": 3,
+        "about": {
+            "text": "Kanha National Park is one of the largest national parks in Madhya Pradesh, renowned for its tiger population and its successful conservation program for the Barasingha (swamp deer). The park's diverse flora and fauna, including Sal and Bamboo forests, along with its meadows, provide a rich tapestry for wildlife. Its serene beauty and abundant wildlife make it an ideal destination for nature lovers and wildlife photographers.",
+            "best_time_to_visit": "October to June (especially March-May for tiger sightings)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Jabalpur (nearest airport)",
+                "price_per_person": 5000,
+                "departure_time": "06:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 45m",
+                "stops": "Direct",
+                "arrival_time": "07:45 AM",
+                "arrival_location": "Jabalpur"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Jabalpur",
+                "price_per_person": 7000,
+                "departure_time": "08:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "2h 30m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "11:00 AM",
+                "arrival_location": "Jabalpur"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Banjaar Tola, A Taj Safari - Kanha National Park",
+                "location": "Kanha, Madhya Pradesh",
+                "image_url": "https://example.com/banjaar_tola.jpg",
+                "ratings": 4.8,
+                "amenities": [
+                    "Luxury Tents",
+                    "Riverside Location",
+                    "Private Deck",
+                    "Safari Excursions",
+                    "Organic Farm"
+                ],
+                "price_per_night": 20000
+            },
+            {
+                "name": "Kanha Earth Lodge",
+                "location": "Kanha, Madhya Pradesh",
+                "image_url": "https://example.com/kanha_earth_lodge.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Eco-Friendly Cottages",
+                    "Organic Cuisine",
+                    "Nature Walks",
+                    "Swimming Pool",
+                    "Birdwatching"
+                ],
+                "price_per_night": 10000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Morning/Evening Safari in Kanha",
+                "ratings": 4.7,
+                "time_required": "3-4 hours",
+                "brief": "Experience the thrill of a jeep safari in the core zones of Kanha National Park for wildlife sightings.",
+                "price": 2000
+            },
+            {
+                "title": "Visit to Kanha Museum",
+                "ratings": 4.2,
+                "time_required": "1 hour",
+                "brief": "Learn about the park's ecology, wildlife, and tribal culture at the Kanha Museum.",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "theme": "Adventure",
+        "Image": "https://images.unsplash.com/photo-1522204653303-34e9d6d7c674?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmlzaGlrZXNoJTIwcmFmdGluZ3xlbnwwfHwwfHww",
+        "title": "Rishikesh: Yoga, Rafting & Spiritual Adventure",
+        "location": "Uttarakhand, India",
+        "description": "Known as the 'Yoga Capital of the World', Rishikesh offers a unique blend of spiritual tranquility and adrenaline-pumping adventure activities along the holy Ganges River.",
+        "card_highlight": "River Rafting, Bungee Jumping, Yoga, Spirituality",
+        "ratings": 4.7,
+        "long_highlight": [
+            "Experience exhilarating white-water river rafting in the Ganges",
+            "Dare to try India's highest bungee jumping and giant swing",
+            "Participate in yoga and meditation sessions at world-renowned ashrams",
+            "Witness the Ganga Aarti ceremony at Parmarth Niketan",
+            "Trek to scenic waterfalls and explore ancient temples"
+        ],
+        "highlights": [
+            "Ganges River Rafting",
+            "Bungee Jumping & Giant Swing",
+            "Yoga & Meditation",
+            "Ganga Aarti ceremony",
+            "Trekking & Waterfalls"
+        ],
+        "price_per_person": 13000,
+        "duration_days": 3,
+        "about": {
+            "text": "Rishikesh is a vibrant town at the foothills of the Himalayas, where the sacred Ganges River flows. It's a pilgrimage site for Hindus and a global hub for yoga and meditation. Beyond its spiritual allure, Rishikesh has emerged as an adventure sports capital, offering thrilling activities like rafting, bungee jumping, and trekking. Its blend of spirituality and adventure attracts a diverse range of travelers.",
+            "best_time_to_visit": "March to May (pleasant for adventure activities), October to November (cool and clear)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Dehradun (nearest airport)",
+                "price_per_person": 3000,
+                "departure_time": "07:30 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 0m",
+                "stops": "Direct",
+                "arrival_time": "08:30 AM",
+                "arrival_location": "Dehradun"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Dehradun",
+                "price_per_person": 6000,
+                "departure_time": "09:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "2h 30m",
+                "stops": "1 Stop (Delhi)",
+                "arrival_time": "11:30 AM",
+                "arrival_location": "Dehradun"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Ganga Kinare - A Riverside Boutique Hotel",
+                "location": "Rishikesh, Uttarakhand",
+                "image_url": "https://example.com/ganga_kinare.jpg",
+                "ratings": 4.5,
+                "amenities": [
+                    "Riverside Location",
+                    "Yoga Deck",
+                    "Spa",
+                    "Restaurant",
+                    "Ganga Aarti View"
+                ],
+                "price_per_night": 7000
+            },
+            {
+                "name": "Aloha on the Ganges",
+                "location": "Rishikesh, Uttarakhand",
+                "image_url": "https://example.com/aloha_ganges.jpg",
+                "ratings": 4.3,
+                "amenities": [
+                    "Riverside Resort",
+                    "Outdoor Pool",
+                    "Spa",
+                    "Dining",
+                    "Yoga & Meditation"
+                ],
+                "price_per_night": 6000
+            }
+        ],
+        "activities": [
+            {
+                "title": "White Water Rafting in Ganges",
+                "ratings": 4.8,
+                "time_required": "2-3 hours (depending on stretch)",
+                "brief": "Experience the thrill of rafting with different rapids, from Shivpuri to Rishikesh.",
+                "price": 1500
+            },
+            {
+                "title": "Bungee Jumping & Giant Swing",
+                "ratings": 4.7,
+                "time_required": "4-5 hours",
+                "brief": "Challenge yourself with India's highest bungee jump and giant swing at Jumpin Heights.",
+                "price": 3500
+            }
+        ]
+    },
+    {
+        "theme": "Adventure",
+        "Image": "https://images.unsplash.com/photo-1621644026330-81f7d4323e20?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNpayBraW1lJTIwaGltYWNoYWx5fGVufDB8fDB8fHww",
+        "title": "Sikkim: Himalayan Treks & Pristine Beauty",
+        "location": "Sikkim, India",
+        "description": "Sikkim, a serene Himalayan state, offers incredible adventure opportunities from high-altitude trekking to mountaineering, amidst its pristine natural beauty.",
+        "card_highlight": "Trekking, Mountaineering, Paragliding, Scenic Beauty",
+        "ratings": 4.7,
+        "long_highlight": [
+            "Embark on challenging high-altitude treks like Goechala Trek",
+            "Experience paragliding with breathtaking views of the Himalayas",
+            "Go mountain biking on scenic trails",
+            "Explore glacial lakes and pristine valleys",
+            "Enjoy river rafting in the Teesta and Rangit rivers"
+        ],
+        "highlights": [
+            "Himalayan Treks (Goechala, Dzongri)",
+            "Paragliding",
+            "Mountain Biking",
+            "River Rafting",
+            "Snow sports (winter)"
+        ],
+        "price_per_person": 25000,
+        "duration_days": 6,
+        "about": {
+            "text": "Sikkim, nestled in the Eastern Himalayas, is a land of dramatic landscapes, from towering peaks to deep valleys. It's a paradise for adventure seekers, offering a wide array of activities that leverage its rugged terrain and natural beauty. Beyond the physical challenges, Sikkim also boasts a rich Buddhist culture and serene monasteries, providing a holistic experience for travelers.",
+            "best_time_to_visit": "April to May (Rhododendrons bloom, pleasant weather), October to November (clear views, good for trekking)"
+        },
+        "flights": [
+            {
+                "airline": "SpiceJet",
+                "route": "Delhi to Pakyong (Sikkim's airport)",
+                "price_per_person": 7000,
+                "departure_time": "08:00 AM",
+                "departure_location": "Delhi",
+                "duration": "2h 30m",
+                "stops": "Direct",
+                "arrival_time": "10:30 AM",
+                "arrival_location": "Pakyong"
+            },
+            {
+                "airline": "IndiGo",
+                "route": "Kolkata to Pakyong",
+                "price_per_person": 5500,
+                "departure_time": "06:30 AM",
+                "departure_location": "Kolkata",
+                "duration": "1h 30m",
+                "stops": "Direct",
+                "arrival_time": "08:00 AM",
+                "arrival_location": "Pakyong"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Mayfair Gangtok",
+                "location": "Gangtok, Sikkim",
+                "image_url": "https://example.com/mayfair_gangtok.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Luxury Resort",
+                    "Casino",
+                    "Spa",
+                    "Outdoor Pool",
+                    "Mountain Views"
+                ],
+                "price_per_night": 9000
+            },
+            {
+                "name": "Hotel Sonam Delek",
+                "location": "Gangtok, Sikkim",
+                "image_url": "https://example.com/sonam_delek_gangtok.jpg",
+                "ratings": 4.2,
+                "amenities": [
+                    "Mountain Views",
+                    "Restaurant",
+                    "Free Wi-Fi",
+                    "Heating",
+                    "Terrace"
+                ],
+                "price_per_night": 4500
+            }
+        ],
+        "activities": [
+            {
+                "title": "Goechala Trek (Short Version)",
+                "ratings": 4.8,
+                "time_required": "4-5 days",
+                "brief": "A challenging trek offering close-up views of Mt. Kanchenjunga and stunning Himalayan landscapes.",
+                "price": 15000
+            },
+            {
+                "title": "Paragliding in Gangtok",
+                "ratings": 4.7,
+                "time_required": "1 hour (including briefing)",
+                "brief": "Soar over Gangtok and witness panoramic views of the valleys and mountains.",
+                "price": 3000
+            }
+        ]
+    },
+    {
+        "theme": "Cultural",
+        "Image": "https://images.unsplash.com/photo-1596707328678-04f762696614?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amFpcHVyfGVufDB8fDB8fHww",
+        "title": "Jaipur: Royal Heritage & Vibrant Culture",
+        "location": "Rajasthan, India",
+        "description": "Jaipur, the 'Pink City', is a vibrant cultural hub in Rajasthan, known for its majestic forts, opulent palaces, colorful bazaars, and rich Rajput heritage.",
+        "card_highlight": "Rajput Culture, Palaces, Forts, Handicrafts",
+        "ratings": 4.8,
+        "long_highlight": [
+            "Explore the magnificent Amber Fort and enjoy an elephant ride",
+            "Visit the City Palace, Hawa Mahal (Palace of Winds), and Jantar Mantar",
+            "Immerse yourself in the vibrant local bazaars for textiles, jewelry, and handicrafts",
+            "Experience traditional Rajasthani folk dance and music",
+            "Savor authentic Rajasthani thali at a local restaurant"
+        ],
+        "highlights": [
+            "Amber Fort & Elephant Ride",
+            "City Palace, Hawa Mahal, Jantar Mantar",
+            "Johari Bazaar, Bapu Bazaar (shopping)",
+            "Rajasthani Folk Culture",
+            "Traditional Cuisine"
+        ],
+        "price_per_person": 12000,
+        "duration_days": 3,
+        "about": {
+            "text": "Jaipur is the capital of Rajasthan, a state known for its regal history and vibrant traditions. The city's architecture, from its iconic pink-hued buildings to its elaborate forts and palaces, reflects the grandeur of the Rajput kings. Jaipur is also a center for arts and crafts, with bustling markets offering everything from precious gemstones to intricate textiles. The city's lively festivals and warm hospitality make it a true cultural experience.",
+            "best_time_to_visit": "October to March (pleasant weather for sightseeing and outdoor activities)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Jaipur",
+                "price_per_person": 3500,
+                "departure_time": "08:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 0m",
+                "stops": "Direct",
+                "arrival_time": "09:00 AM",
+                "arrival_location": "Jaipur"
+            },
+            {
+                "airline": "Air India",
+                "route": "Mumbai to Jaipur",
+                "price_per_person": 5500,
+                "departure_time": "07:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "1h 45m",
+                "stops": "Direct",
+                "arrival_time": "08:45 AM",
+                "arrival_location": "Jaipur"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Jai Mahal Palace",
+                "location": "Jaipur, Rajasthan",
+                "image_url": "https://example.com/jai_mahal_palace.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Heritage Property",
+                    "Outdoor Pool",
+                    "Spa",
+                    "Fine Dining",
+                    "Gardens"
+                ],
+                "price_per_night": 15000
+            },
+            {
+                "name": "ITC Rajputana, a Luxury Collection Hotel",
+                "location": "Jaipur, Rajasthan",
+                "image_url": "https://example.com/itc_rajputana.jpg",
+                "ratings": 4.5,
+                "amenities": [
+                    "Traditional Decor",
+                    "Spa",
+                    "Outdoor Pool",
+                    "Multiple Restaurants",
+                    "Fitness Center"
+                ],
+                "price_per_night": 9000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Amber Fort & Elephant Ride",
+                "ratings": 4.9,
+                "time_required": "3-4 hours",
+                "brief": "Explore the magnificent Amber Fort and enjoy a traditional elephant ride up to the entrance.",
+                "price": 1000
+            },
+            {
+                "title": "Jaipur City Palace & Hawa Mahal Tour",
+                "ratings": 4.8,
+                "time_required": "3 hours",
+                "brief": "Visit the opulent City Palace, former royal residence, and the iconic Hawa Mahal (Palace of Winds).",
+                "price": 800
+            }
+        ]
+    },
+    {
+        "theme": "Cultural",
+        "Image": "https://images.unsplash.com/photo-1579563333190-2521a2c3a3b0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGtpbmdoYW0lMjBpbmRpYXxlbnwwfHwwfHww",
+        "title": "Varanasi: Spiritual Heart & Ancient Traditions",
+        "location": "Uttar Pradesh, India",
+        "description": "Varanasi, one of the oldest living cities in the world, is India's spiritual capital, renowned for its sacred Ganges River, ancient ghats, and vibrant Hindu rituals and traditions.",
+        "card_highlight": "Spirituality, Ganges, Ancient City, Hindu Rituals",
+        "ratings": 4.9,
+        "long_highlight": [
+            "Witness the mesmerizing Ganga Aarti ceremony at Dashashwamedh Ghat",
+            "Take a sunrise boat ride on the Ganges to see the ghats",
+            "Explore the narrow, winding lanes of the old city and ancient temples",
+            "Experience a deeper understanding of Hindu philosophy and traditions",
+            "Try local delicacies like Malaiyyo, Kachori, and Lassi"
+        ],
+        "highlights": [
+            "Ganga Aarti",
+            "Sunrise boat ride on Ganges",
+            "Ancient temples (Kashi Vishwanath)",
+            "Narrow lanes & street food",
+            "Spiritual rituals & yoga"
+        ],
+        "price_per_person": 11000,
+        "duration_days": 3,
+        "about": {
+            "text": "Varanasi is a city of immense spiritual significance for Hindus, believed to grant salvation to those who die here. The Ganges River is central to its identity, with numerous ghats (steps leading to the river) where pilgrims perform rituals. The city's narrow alleys are a labyrinth of temples, shrines, and bustling markets, offering a raw and authentic cultural experience. It's a place where life and death intertwine, offering profound insights into Indian spirituality.",
+            "best_time_to_visit": "October to March (pleasant weather for exploring the ghats and temples)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Varanasi",
+                "price_per_person": 4200,
+                "departure_time": "06:00 AM",
+                "departure_location": "Delhi",
+                "duration": "1h 20m",
+                "stops": "Direct",
+                "arrival_time": "07:20 AM",
+                "arrival_location": "Varanasi"
+            },
+            {
+                "airline": "SpiceJet",
+                "route": "Mumbai to Varanasi",
+                "price_per_person": 6800,
+                "departure_time": "09:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "2h 30m",
+                "stops": "Direct",
+                "arrival_time": "11:30 AM",
+                "arrival_location": "Varanasi"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Taj Ganges, Varanasi",
+                "location": "Varanasi, Uttar Pradesh",
+                "image_url": "https://example.com/taj_ganges_varanasi.jpg",
+                "ratings": 4.4,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Spa",
+                    "Multiple Restaurants",
+                    "Gardens",
+                    "Proximity to Ghats"
+                ],
+                "price_per_night": 8500
+            },
+            {
+                "name": "Hotel Clarks Varanasi",
+                "location": "Varanasi, Uttar Pradesh",
+                "image_url": "https://example.com/clarks_varanasi.jpg",
+                "ratings": 4.0,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Restaurant",
+                    "Bar",
+                    "Free Wi-Fi",
+                    "Travel Desk"
+                ],
+                "price_per_night": 5000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Ganga Aarti Ceremony & Boat Ride",
+                "ratings": 4.9,
+                "time_required": "2 hours",
+                "brief": "Witness the spectacular evening Ganga Aarti from a boat on the Ganges, a deeply spiritual experience.",
+                "price": 800
+            },
+            {
+                "title": "Varanasi Heritage Walk (Old City & Ghats)",
+                "ratings": 4.7,
+                "time_required": "3 hours",
+                "brief": "Explore the ancient lanes, hidden temples, and bustling markets of Varanasi's old city on foot.",
+                "price": 700
+            }
+        ]
+    },
+    {
+        "theme": "Shopping",
+        "Image": "https://images.unsplash.com/photo-1518170068307-5e60d3d5f309?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGRlbGhpJTIwc2hvcHBpbmd8ZW58MHx8MHx8fDA%3D",
+        "title": "Delhi: A Shopper's Paradise",
+        "location": "Delhi, India",
+        "description": "Delhi offers an unparalleled shopping experience, from traditional bazaars to upscale malls, catering to every taste and budget, with a focus on textiles, handicrafts, and modern fashion.",
+        "card_highlight": "Street Markets, Malls, Handicrafts, Fashion",
+        "ratings": 4.7,
+        "long_highlight": [
+            "Explore the bustling Chandni Chowk for traditional clothes, jewelry, and street food",
+            "Discover exquisite handicrafts and ethnic wear at Dilli Haat",
+            "Shop for high-end fashion and international brands in designer boutiques",
+            "Bargain for unique souvenirs and regional specialties in local markets",
+            "Visit modern shopping malls for a contemporary retail experience"
+        ],
+        "highlights": [
+            "Chandni Chowk, Sarojini Nagar",
+            "Dilli Haat (handicrafts)",
+            "Khan Market, Connaught Place",
+            "Luxury malls (Select CITYWALK)",
+            "Textiles, jewelry, spices"
+        ],
+        "price_per_person": 15000,
+        "duration_days": 3,
+        "about": {
+            "text": "Delhi is a city of contrasts, and its shopping scene perfectly reflects this. From the chaotic charm of Old Delhi's Chandni Chowk, where centuries-old traditions meet modern commerce, to the sprawling, air-conditioned luxury malls, Delhi has something for every shopper. It's particularly known for its textiles, traditional Indian wear, handicrafts, and street food that complements the shopping experience.",
+            "best_time_to_visit": "October to March (pleasant weather for outdoor market exploration)"
+        },
+        "flights": [
+            {
+                "airline": "Multiple Airlines",
+                "route": "Major Indian Cities to Delhi",
+                "price_per_person": 3000,
+                "departure_time": "Varies",
+                "departure_location": "Various",
+                "duration": "Varies",
+                "stops": "Direct/1 Stop",
+                "arrival_time": "Varies",
+                "arrival_location": "Delhi"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "The Leela Palace New Delhi",
+                "location": "Chanakyapuri, New Delhi",
+                "image_url": "https://example.com/leela_palace_delhi.jpg",
+                "ratings": 4.8,
+                "amenities": [
+                    "Luxury Rooms",
+                    "Rooftop Pool",
+                    "Spa",
+                    "Multiple Dining",
+                    "Boutique Shopping Arcade"
+                ],
+                "price_per_night": 18000
+            },
+            {
+                "name": "Shangri-La Eros New Delhi",
+                "location": "Connaught Place, New Delhi",
+                "image_url": "https://example.com/shangrila_delhi.jpg",
+                "ratings": 4.6,
+                "amenities": [
+                    "Outdoor Pool",
+                    "Spa",
+                    "Restaurants & Bars",
+                    "Fitness Center",
+                    "City Center Location"
+                ],
+                "price_per_night": 10000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Old Delhi Shopping & Food Tour",
+                "ratings": 4.8,
+                "time_required": "4 hours",
+                "brief": "Explore the vibrant bazaars of Old Delhi, shopping for textiles and spices, and sampling famous street food.",
+                "price": 1200
+            },
+            {
+                "title": "Dilli Haat Cultural & Craft Experience",
+                "ratings": 4.5,
+                "time_required": "3 hours",
+                "brief": "Discover handicrafts, folk performances, and regional cuisines from across India at Dilli Haat.",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "theme": "Shopping",
+        "Image": "https://images.unsplash.com/photo-1517441991410-6d40f4a477ce?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZHVib2klMjBzY3J1YnxlbnwwfHwwfHww",
+        "title": "Dubai: Grandeur & Retail Therapy",
+        "location": "UAE",
+        "description": "Dubai is a global shopping destination, famous for its colossal malls, traditional souks, luxury brands, and duty-free shopping, offering an experience of grandeur and variety.",
+        "card_highlight": "Luxury Shopping, Malls, Gold Souk, Duty-Free",
+        "ratings": 4.8,
+        "long_highlight": [
+            "Explore the massive Dubai Mall with its designer stores and entertainment options",
+            "Bargain for gold, spices, and textiles in the traditional souks",
+            "Indulge in duty-free shopping at Dubai International Airport",
+            "Discover unique items at Global Village and other themed markets",
+            "Experience high-end retail therapy in luxurious settings"
+        ],
+        "highlights": [
+            "Dubai Mall (shopping & entertainment)",
+            "Gold Souk, Spice Souk",
+            "Global Village (seasonal)",
+            "Luxury brands & boutiques",
+            "Duty-free shopping"
+        ],
+        "price_per_person": 40000,
+        "duration_days": 4,
+        "about": {
+            "text": "Dubai has transformed into a premier shopping destination, offering an unparalleled mix of modern luxury and traditional charm. Its malls are not just shopping centers but entertainment complexes with attractions like aquariums and indoor ski slopes. The traditional souks provide a sensory experience, selling everything from glittering gold to exotic spices. With its tax-free policies, Dubai is a magnet for serious shoppers.",
+            "best_time_to_visit": "November to April (cooler weather for outdoor activities and souk exploration)"
+        },
+        "flights": [
+            {
+                "airline": "Emirates",
+                "route": "Delhi to Dubai",
+                "price_per_person": 15000,
+                "departure_time": "10:00 AM",
+                "departure_location": "Delhi",
+                "duration": "3h 30m",
+                "stops": "Direct",
+                "arrival_time": "12:30 PM",
+                "arrival_location": "Dubai"
+            },
+            {
+                "airline": "Flydubai",
+                "route": "Mumbai to Dubai",
+                "price_per_person": 12000,
+                "departure_time": "08:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "3h 0m",
+                "stops": "Direct",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Dubai"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Address Downtown",
+                "location": "Downtown Dubai",
+                "image_url": "https://example.com/address_downtown_dubai.jpg",
+                "ratings": 4.8,
+                "amenities": [
+                    "Burj Khalifa Views",
+                    "Direct Dubai Mall Access",
+                    "Infinity Pool",
+                    "Luxury Spa",
+                    "Multiple Restaurants"
+                ],
+                "price_per_night": 30000
+            },
+            {
+                "name": "JW Marriott Marquis Hotel Dubai",
+                "location": "Business Bay, Dubai",
+                "image_url": "https://example.com/jw_marriott_marquis_dubai.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Two Towers",
+                    "Spa",
+                    "Outdoor Pool",
+                    "Over 10 Restaurants & Bars",
+                    "Fitness Center"
+                ],
+                "price_per_night": 15000
+            }
+        ],
+        "activities": [
+            {
+                "title": "The Dubai Mall Experience",
+                "ratings": 4.9,
+                "time_required": "Full Day",
+                "brief": "Spend a day exploring the world's largest mall, including shopping, the Aquarium, and KidZania.",
+                "price": "Varies (entry to attractions)"
+            },
+            {
+                "title": "Old Dubai & Souks Tour",
+                "ratings": 4.7,
+                "time_required": "3-4 hours",
+                "brief": "Discover the historical side of Dubai with visits to the Gold, Spice, and Textile Souks, and a traditional Abra ride.",
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "theme": "Relaxation",
+        "Image": "https://images.unsplash.com/photo-1506544976450-9d5c5890b07b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhZGk1fGVufDB8fDB8fHww",
+        "title": "Kerala: Backwaters & Ayurvedic Retreats",
+        "location": "Kerala, India",
+        "description": "Kerala, 'God's Own Country', offers unparalleled relaxation with its serene backwaters, tranquil beaches, lush spice plantations, and world-renowned Ayurvedic wellness centers.",
+        "card_highlight": "Ayurveda, Backwaters, Serenity, Yoga",
+        "ratings": 4.8,
+        "long_highlight": [
+            "Cruise the serene backwaters of Alleppey in a traditional houseboat",
+            "Indulge in rejuvenating Ayurvedic massages and wellness treatments",
+            "Relax on tranquil beaches like Marari and Kovalam",
+            "Explore lush tea and spice plantations in Munnar",
+            "Participate in yoga and meditation amidst natural beauty"
+        ],
+        "highlights": [
+            "Alleppey Houseboat cruises",
+            "Ayurvedic treatments & retreats",
+            "Marari & Kovalam beaches",
+            "Munnar tea plantations",
+            "Yoga & meditation"
+        ],
+        "price_per_person": 20000,
+        "duration_days": 5,
+        "about": {
+            "text": "Kerala is celebrated for its laid-back charm and natural beauty, making it a perfect destination for relaxation. The backwaters are a unique network of canals, lakes, and lagoons, best explored on a houseboat. Ayurveda, an ancient Indian system of medicine, thrives here, with numerous resorts offering therapeutic treatments. From verdant hills to tranquil beaches, Kerala provides a diverse canvas for unwinding and rejuvenation.",
+            "best_time_to_visit": "October to March (pleasant weather, ideal for backwater cruises and treatments)"
+        },
+        "flights": [
+            {
+                "airline": "IndiGo",
+                "route": "Delhi to Kochi",
+                "price_per_person": 6000,
+                "departure_time": "09:00 AM",
+                "departure_location": "Delhi",
+                "duration": "2h 45m",
+                "stops": "Direct",
+                "arrival_time": "11:45 AM",
+                "arrival_location": "Kochi"
+            },
+            {
+                "airline": "Air India",
+                "route": "Mumbai to Kochi",
+                "price_per_person": 5000,
+                "departure_time": "07:30 AM",
+                "departure_location": "Mumbai",
+                "duration": "1h 45m",
+                "stops": "Direct",
+                "arrival_time": "09:15 AM",
+                "arrival_location": "Kochi"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Kumarakom Lake Resort",
+                "location": "Kumarakom, Kerala (Backwaters)",
+                "image_url": "https://example.com/kumarakom_lake_resort.jpg",
+                "ratings": 4.8,
+                "amenities": [
+                    "Traditional Cottages",
+                    "Ayurveda Spa",
+                    "Infinity Pool",
+                    "Backwater Views",
+                    "Houseboat Stays"
+                ],
+                "price_per_night": 15000
+            },
+            {
+                "name": "Marari Beach, CGH Earth",
+                "location": "Mararikulam, Kerala",
+                "image_url": "https://example.com/marari_beach_cgh.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Beachfront Cottages",
+                    "Ayurveda Centre",
+                    "Yoga Sessions",
+                    "Organic Farm",
+                    "Sustainable Tourism"
+                ],
+                "price_per_night": 12000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Alleppey Houseboat Day Cruise",
+                "ratings": 4.7,
+                "time_required": "5-6 hours",
+                "brief": "Relax and enjoy the scenic beauty of the backwaters on a traditional houseboat, with lunch onboard.",
+                "price": 3000
+            },
+            {
+                "title": "Ayurvedic Rejuvenation Massage",
+                "ratings": 4.8,
+                "time_required": "1-2 hours",
+                "brief": "Experience a traditional Ayurvedic massage designed to relax and rejuvenate your body and mind.",
+                "price": 2000
+            }
+        ]
+    },
+    {
+        "theme": "Relaxation",
+        "Image": "https://images.unsplash.com/photo-1543789976-b997b11ce8e2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhbGklMjByZWxheGF0aW9ufGVufDB8fDB8fHww",
+        "title": "Bali: Island of Gods & Tranquil Escapes",
+        "location": "Indonesia",
+        "description": "Bali, the 'Island of Gods', is a spiritual and serene destination, offering lush rice paddies, volcanic mountains, vibrant arts, and world-class wellness retreats for ultimate relaxation.",
+        "card_highlight": "Yoga, Spa, Nature, Spiritual Retreats, Beaches",
+        "ratings": 4.8,
+        "long_highlight": [
+            "Indulge in world-class spa and wellness treatments in serene settings",
+            "Participate in yoga and meditation retreats in Ubud's lush landscapes",
+            "Relax on tranquil beaches like Seminyak and Nusa Dua",
+            "Explore picturesque rice terraces and sacred temples",
+            "Enjoy healthy, organic cuisine and peaceful surroundings"
+        ],
+        "highlights": [
+            "Ubud's Yoga & Meditation retreats",
+            "Balinese Spa & Wellness",
+            "Seminyak & Nusa Dua beaches",
+            "Rice Terraces & Temples",
+            "Healthy Food & Serene Ambiance"
+        ],
+        "price_per_person": 35000,
+        "duration_days": 6,
+        "about": {
+            "text": "Bali is more than just a tropical paradise; it's a spiritual sanctuary known for its calming energy and focus on well-being. From the artistic hub of Ubud, famed for its yoga and meditation centers amidst rice paddies, to the luxurious beach resorts, Bali offers diverse relaxation experiences. The island's rich culture, friendly locals, and delicious organic food further enhance its appeal as a tranquil escape.",
+            "best_time_to_visit": "April to October (dry season, ideal for all activities and beach relaxation)"
+        },
+        "flights": [
+            {
+                "airline": "Malindo Air",
+                "route": "Delhi to Denpasar (Bali)",
+                "price_per_person": 18000,
+                "departure_time": "11:00 PM",
+                "departure_location": "Delhi",
+                "duration": "7h 0m",
+                "stops": "1 Stop (Kuala Lumpur)",
+                "arrival_time": "08:00 AM (next day)",
+                "arrival_location": "Denpasar"
+            },
+            {
+                "airline": "Thai Airways",
+                "route": "Mumbai to Denpasar (Bali)",
+                "price_per_person": 17000,
+                "departure_time": "01:00 AM",
+                "departure_location": "Mumbai",
+                "duration": "8h 0m",
+                "stops": "1 Stop (Bangkok)",
+                "arrival_time": "10:00 AM",
+                "arrival_location": "Denpasar"
+            }
+        ],
+        "hotels": [
+            {
+                "name": "Mulia Resort & Villas Nusa Dua",
+                "location": "Nusa Dua, Bali",
+                "image_url": "https://example.com/mulia_bali.jpg",
+                "ratings": 4.7,
+                "amenities": [
+                    "Beachfront",
+                    "Multiple Pools",
+                    "Spa",
+                    "Restaurants & Bars",
+                    "Kids Club"
+                ],
+                "price_per_night": 12000
+            },
+            {
+                "name": "Four Seasons Resort Bali at Sayan",
+                "location": "Ubud, Bali",
+                "image_url": "https://example.com/four_seasons_sayan.jpg",
+                "ratings": 4.9,
+                "amenities": [
+                    "Riverside Villas",
+                    "Yoga & Meditation",
+                    "Spa",
+                    "Cooking Classes",
+                    "Lush Gardens"
+                ],
+                "price_per_night": 25000
+            }
+        ],
+        "activities": [
+            {
+                "title": "Ubud Yoga & Wellness Retreat Day",
+                "ratings": 4.8,
+                "time_required": "Full Day",
+                "brief": "Participate in yoga sessions, meditation, and healthy meals at a renowned wellness center in Ubud.",
+                "price": 4000
+            },
+            {
+                "title": "Balinese Spa & Massage",
+                "ratings": 4.9,
+                "time_required": "2-3 hours",
+                "brief": "Indulge in a traditional Balinese massage and spa treatments for ultimate relaxation.",
+                "price": 2500
+            }
+        ]
+    }
+]
