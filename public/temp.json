@@ -66,7 +66,8 @@
             {
                 "name": "W Goa",
                 "location": "Vagator Beach, Goa",
-                "image_url": "https://example.com/w_goa.jpg",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/2c/d3/ce/porte-cochere.jpg?w=900&h=500&s=1",
+                "ref": "https://www.marriott.com/en-us/hotels/goiwh-w-goa/overview/",
                 "ratings": 4.7,
                 "amenities": [
                     "Infinity Pool",
@@ -80,7 +81,8 @@
             {
                 "name": "Taj Exotica Resort & Spa",
                 "location": "Benaulim, South Goa",
-                "image_url": "https://example.com/taj_exotica_goa.jpg",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/64/e1/6d/taj-exotica-resort-spa.jpg?w=900&h=500&s=1",
+                "ref":"https://www.tajhotels.com/en-in/hotels/taj-exotica-maldives",
                 "ratings": 4.8,
                 "amenities": [
                     "Private Beach",
@@ -94,7 +96,8 @@
             {
                 "name": "Lemon Tree Amarante Beach Resort",
                 "location": "Candolim, North Goa",
-                "image_url": "https://example.com/lemon_tree_goa.jpg",
+                "ref": "https://www.lemontreehotels.com/lemon-tree-hotel/goa/amarante-beach-resorts-goa",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/43926881.jpg?k=46a8cbb1197a0eb10faa44b9a370faeacd33d825bd76f42f8a95c11eb7786a88&o=&hp=1",
                 "ratings": 4.2,
                 "amenities": [
                     "Outdoor Pool",
@@ -197,7 +200,8 @@
             {
                 "name": "Taj Exotica Resort & Spa, Andamans",
                 "location": "Havelock Island",
-                "image_url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUTEhMWFhUXFx0bGRcXGBseGhoeHhgYGB8eHR0hHiggGh0lHRkYIjEiJSouLi4uGh8zODMtNygtLisBCgoKDg0OGxAQGzUlHyYtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQMGAAECBwj/xABDEAACAQIEAwYEBAUDAQYHAAABAhEDIQAEEjEFQVEGEyJhcYEykaHwQrHB0RQjUmLhcoLxFTNDU5LC0gcWJGOisrP8A8QAGgAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QALREAAgICAQMDAgYCAwAAAAAAAAECEQMhEgQxQTJRYROBBRQisdHw4fFCcZH/2gASCAgBAQABAAAAA==",
+                "image_url": "https://lh3.googleusercontent.com/p/AF1QipO9ZDrvDI4A8NydGmDJUKMfmHryxByrNB88zDp_=s1360-w1360-h1020",
+                "ref":"https://www.tajhotels.com/en-in/hotels/taj-exotica-andamans",
                 "ratings": 4.9,
                 "amenities": [
                     "Private Villas",
@@ -211,7 +215,8 @@
             {
                 "name": "Symphony Palms Beach Resort & Spa",
                 "location": "Havelock Island",
-                "image_url": "https://example.com/symphony_palms.jpg",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/109695189.jpg?k=31ccb3417fcd42d91ea1bf9eefb948b711670b1919f7ad8439d54944a7858603&o=&hp=1",
+                "ref":"https://www.symphonyresorts.com/symphony-palms-beach-resort-and-spa/",
                 "ratings": 4.3,
                 "amenities": [
                     "Beachfront",
@@ -225,7 +230,8 @@
             {
                 "name": "SeaShell, Port Blair",
                 "location": "Port Blair",
-                "image_url": "https://example.com/seashell_portblair.jpg",
+                "image_url": "https://lh3.googleusercontent.com/p/AF1QipM7AwurBu5h9qwrgpxX7Pps47cjJJZ_m5dLlXPE=s1360-w1360-h1020",
+                "ref":"https://seashellhotels.net/seashell-port-blair/",
                 "ratings": 4.1,
                 "amenities": [
                     "Rooftop Restaurant",
@@ -265,6 +271,7 @@
         "theme": "Beaches",
         "title": "Maldives: Luxury & Underwater Wonders",
         "location": "Indian Ocean",
+        "Image":"https://www.sunsiyam.com/media/5k3iw5a5/ssiv_general_04.jpg?width=782&height=521&mode=max",
         "description": "An archipelago of 26 atolls, the Maldives is a tropical nation in the Indian Ocean, known for its pristine beaches, blue lagoons, and extensive reefs. Overwater bungalows and luxury resorts define this dream destination.",
         "card_highlight": "Luxury Resorts, Snorkeling, Privacy",
         "ratings":  4.8,
@@ -327,7 +334,8 @@
             {
                 "name": "W Maldives",
                 "location": "Fesdu Island, North Ari Atoll",
-                "image_url": "https://example.com/w_maldives.jpg",
+                "ref":"https://www.marriott.com/en-us/hotels/mlewh-w-maldives/overview/",
+                "image_url": "https://cache.marriott.com/is/image/marriotts7prod/wh-mlewh-overwater-villa-ext-34700-13222:Classic-Hor?wid=1300&fit=constrain",
                 "ratings": 4.8,
                 "amenities": [
                     "Overwater Villas",
@@ -341,7 +349,8 @@
             {
                 "name": "Conrad Maldives Rangali Island",
                 "location": "Rangali Island, South Ari Atoll",
-                "image_url": "https://example.com/conrad_maldives.jpg",
+                "ref":"https://www.conradmaldives.com/?WT_mc_id=zLADA0MV1CH2PSH3GGL4INTBPP5dkt6MLEHICI7en_&epid%21_&ebuy%21&gclsrc=aw.ds&gad_source=1&gad_campaignid=16705477859&gbraid=0AAAAADnjLGOUeINdKY0mCb1Pw-U0ltuIS&gclid=CjwKCAjwp_LDBhBCEiwAK7FnktjsQ89qQX7zoM03WNnv7V2ZPp_g8QApPxW9fFWkaJ0o0PA6wCO55hoCoKYQAvD_BwE",
+                "image_url": "https://www.conradmaldives.com/wp-content/uploads/2024/04/Grand-Water-Villa-with-Pool-Drone-Shot.jpg",
                 "ratings": 4.9,
                 "amenities": [
                     "Underwater Residence (The Muraka)",
@@ -355,7 +364,8 @@
             {
                 "name": "Centara Ras Fushi Resort & Spa Maldives",
                 "location": "North Malé Atoll",
-                "image_url": "https://example.com/centara_maldives.jpg",
+                "ref":"https://www.centarahotelsresorts.com/centara/crf",
+                "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/03/c8/ed/drone-11.jpg",
                 "ratings": 4.5,
                 "amenities": [
                     "Overwater & Beach Villas",
@@ -394,6 +404,7 @@
     {
         "theme": "Mountains",
         "title": "Manali: Valley of Gods & Adventure",
+        "Image":"https://clubmahindra.gumlet.io/blog/media/section_images/blog-topic-6530ecb63a76c89.jpg?w=376&dpr=2.6",
         "location": "Himachal Pradesh, India",
         "description": "Nestled in the Beas River Valley, Manali is a popular hill station offering breathtaking views of snow-capped mountains, lush valleys, and adventure opportunities.",
         "card_highlight": "Scenic Mountains, Adventure Sports, Serene Retreat",
@@ -457,7 +468,8 @@
             {
                 "name": "The Himalayan",
                 "location": "Manali, Himachal Pradesh",
-                "image_url": "https://example.com/the_himalayan.jpg",
+                "ref":"https://thehimalayan.com",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/578753634.jpg?k=e8c9f0b7aecb203f4daa601a1841b013ed5a35b06626c0cc4c77b9c2d89855ed&o=&hp=1",
                 "ratings": 4.6,
                 "amenities": [
                     "Luxury Castle Stay",
@@ -471,7 +483,8 @@
             {
                 "name": "ManuAllaya – The Resort & Spa",
                 "location": "Manali, Himachal Pradesh",
-                "image_url": "https://example.com/manuallaya.jpg",
+                "ref":"https://www.manuallaya.com",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/639923381.jpg?k=400dbc6a17ce5446e5d773d4743c85a3591c75f8070247a5ad3bf70795aeedef&o=&hp=1",
                 "ratings": 4.4,
                 "amenities": [
                     "Indoor Pool",
@@ -485,7 +498,8 @@
             {
                 "name": "Hotel Holiday Inn Manali",
                 "location": "Manali, Himachal Pradesh",
-                "image_url": "https://example.com/holiday_inn_manali.jpg",
+                "ref":"https://holiday-inn-manali.hotel-rez.com",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/18605829.jpg?k=20095f1f596da1c585a92a560ab8a38d2bec9aaaeb64f9c4ec955671a23a6fd0&o=&hp=1",
                 "ratings": 4.0,
                 "amenities": [
                     "Garden",
@@ -524,6 +538,7 @@
     {
         "theme": "Mountains",
         "title": "Leh-Ladakh: High Passes & Monasteries",
+        "Image":"https://images.memphistours.com/large/300049555_Leh-Ladakh.jpg",
         "location": "Jammu & Kashmir, India",
         "description": "A land of high passes, ancient monasteries, and stark, breathtaking landscapes. Leh-Ladakh offers a unique blend of adventure, culture, and serene beauty.",
         "card_highlight": "High Altitude, Buddhist Culture, Adventure",
@@ -587,7 +602,8 @@
             {
                 "name": "The Grand Dragon Ladakh",
                 "location": "Leh, Ladakh",
-                "image_url": "https://example.com/grand_dragon_ladakh.jpg",
+                "ref":"https://www.thegranddragonladakh.com",
+                "image_url": "https://lh3.googleusercontent.com/p/AF1QipPJp_V8OzSGWcQqhZBgyxCTzjbLMS6kSS8PQmbd=s1360-w1360-h1020",
                 "ratings": 4.5,
                 "amenities": [
                     "Heated Rooms",
@@ -601,7 +617,8 @@
             {
                 "name": "Hotel Shangrila",
                 "location": "Leh, Ladakh",
-                "image_url": "https://example.com/hotel_shangrila_ladakh.jpg",
+                "ref":"https://www.shangrilaladakh.com",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228077338.jpg?k=f107a8dc70bffdef927c6010499ba4a5e4220c6eb4e49f85be4c09c2729f551e&o=&hp=1",
                 "ratings": 4.2,
                 "amenities": [
                     "Garden",
@@ -615,7 +632,8 @@
             {
                 "name": "Ladakh Sarai Resort",
                 "location": "Leh, Ladakh",
-                "image_url": "https://example.com/ladakh_sarai.jpg",
+                "ref":"https://www.ladakhsarai.com",
+                "image_url": "https://lh3.googleusercontent.com/p/AF1QipMmSa_O1El4QmVxfROteLB3-jJ81p6VZPQbor9Y=s1360-w1360-h1020",
                 "ratings": 4.3,
                 "amenities": [
                     "Traditional Cottages",
@@ -654,6 +672,7 @@
     {
         "theme": "Mountains",
         "title": "Darjeeling: Tea Gardens & Toy Train",
+        "Image":"https://etripto.in/uploads/0000/1/2024/12/18/darjeeling-family-tour-package.jpg",
         "location": "West Bengal, India",
         "description": "Perched in the Lesser Himalayas, Darjeeling is a charming hill station famed for its tea gardens, scenic beauty, and the iconic Darjeeling Himalayan Railway.",
         "card_highlight": "Tea Plantations, Himalayan Views, Toy Train",
@@ -716,7 +735,8 @@
             {
                 "name": "Mayfair Darjeeling",
                 "location": "Darjeeling, West Bengal",
-                "image_url": "https://example.com/mayfair_darjeeling.jpg",
+                "ref":"https://www.mayfairhotels.com/hill-resort-darjeeling/",
+                "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noi7_KC3MsR_ITnrsp3lwhpvyNrfSL5ogCSx8qrYloHz3gUzqeSdN_MflBJ-R2gaemACsTbVJkNuqGyMXIjmeGwUsqpv8AS2GCx0uNkaTCXm2VDxcyOT90gBJjMg05SqZB_OuhoDQ=s1360-w1360-h1020",
                 "ratings": 4.6,
                 "amenities": [
                     "Colonial Charm",
@@ -730,7 +750,8 @@
             {
                 "name": "Windamere Hotel",
                 "location": "Darjeeling, West Bengal",
-                "image_url": "https://example.com/windamere_darjeeling.jpg",
+                "ref":"https://www.windamerehotel.com",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/48561552.jpg?k=529878f942559cf4d59f1297e93be64d463268343811b99aabf548819f3521e4&o=&hp=1",
                 "ratings": 4.7,
                 "amenities": [
                     "Historic Property",
@@ -744,7 +765,8 @@
             {
                 "name": "Hotel Sonam Delek",
                 "location": "Darjeeling, West Bengal",
-                "image_url": "https://example.com/sonam_delek_darjeeling.jpg",
+                "ref":"https://www.hotelsonamdelek.com",
+                "image_url": "https://lh3.googleusercontent.com/p/AF1QipMJ31uPAfr_W_syS9fG15slvPF-4q5X33dkx6PJ=s1360-w1360-h1020",
                 "ratings": 4.1,
                 "amenities": [
                     "Mountain Views",
@@ -783,6 +805,7 @@
     {
         "theme": "Historical Sites",
         "title": "Agra: Taj Mahal & Mughal Grandeur",
+        "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/960px-Taj_Mahal%2C_Agra%2C_India.jpg",
         "location": "Uttar Pradesh, India",
         "description": "Explore the iconic Taj Mahal, one of the world's most beautiful monuments to love, alongside other magnificent Mughal-era historical sites.",
         "card_highlight": "Taj Mahal, Mughal History, UNESCO Site",
@@ -846,7 +869,8 @@
             {
                 "name": "The Oberoi Amarvilas",
                 "location": "Agra, Uttar Pradesh (near Taj Mahal)",
-                "image_url": "https://example.com/oberoi_amarvilas.jpg",
+                "ref":"https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/special-offers/exclusive-members-offer/?utm_source=google&utm_content=15_per_offer_23_01_2025&utm_medium=cpc&utm_campaign=oberoi_agra_search_conversion_ia&gad_source=1&gad_campaignid=17626103739&gbraid=0AAAAADk3CBFvsqBHf0q863_Td5wBL6ZYi&gclid=Cj0KCQjwyvfDBhDYARIsAItzbZEQ4tgPTdkWOCtPBqJD56-uIulZdCHrKkM8OEjgPK9PcryIv96mFRIaAt2nEALw_wcB",
+                "image_url": "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-amarvilas-agra/experiences/detail/dine-under-the-stars.jpg",
                 "ratings": 4.9,
                 "amenities": [
                     "Taj Mahal Views from all rooms",
@@ -860,7 +884,8 @@
             {
                 "name": "ITC Mughal, a Luxury Collection Hotel",
                 "location": "Agra, Uttar Pradesh",
-                "image_url": "https://example.com/itc_mughal.jpg",
+                "ref":"https://res.itchotels.com/?adult=1&arrive=2025-07-21&chain=26676&child=0&config=Business&currency=INR&depart=2025-07-22&gad_campaignid=22386772045&gad_source=1&gbraid=0AAAAAD7w-rhVPAzMNqu8BJsHVgoXNBX9q&gclid=Cj0KCQjwyvfDBhDYARIsAItzbZEZVHoQ-OuaYaV9MddYqN6rAjqGBLF8NJSpjBpNOK7rl2BCwSYrYUkaApLsEALw_wcB&hotel=30166&hotelID=30166&journey=undefined&level=hotel&locale=en-US&productcurrency=INR&rate=PFLASHMM%2CRDAILYB&rooms=1&specialCode=NA&stayLength=1&theme=Umbrella_chain&utm_campaign=PFX_Google-HQ_DTL-HTL-LC-QO-Search-Brand-AGRLC-AO-Rooms-ITC_Mughal-Agra-Feeder-C1&utm_content=search&utm_medium=cpc&utm_source=google",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/3d/7a/itc-mughal-agra.jpg?w=900&h=500&s=1",
                 "ratings": 4.6,
                 "amenities": [
                     "Mughal Gardens",
@@ -874,7 +899,8 @@
             {
                 "name": "Hotel Clarks Shiraz",
                 "location": "Agra, Uttar Pradesh",
-                "image_url": "https://example.com/clarks_shiraz.jpg",
+                "ref":"https://www.hotelclarksshiraz.com",
+                "image_url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_2500/x_277,y_0,w_4451,h_2500,r_0,c_crop/q_80,w_900,dpr_1,f_auto,fl_progressive,c_limit/hotel-clarks-shiraz-agra/1._Facade_View_fsbvs6",
                 "ratings": 4.0,
                 "amenities": [
                     "Rooftop Pool",
@@ -913,6 +939,7 @@
     {
         "theme": "Historical Sites",
         "title": "Hampi: Ancient Ruins & Vijayanagara Glory",
+        "Image":"https://s7ap1.scene7.com/is/image/incredibleindia/a-journey-through-masthead-hero-1?qlt=82&ts=1727368343764",
         "location": "Karnataka, India",
         "description": "Step back in time amidst the mystical ruins of Hampi, a UNESCO World Heritage Site and the former capital of the Vijayanagara Empire.",
         "card_highlight": "Ancient Ruins, UNESCO Site, Stone Architecture",
@@ -976,7 +1003,8 @@
             {
                 "name": "Evolve Back Hampi",
                 "location": "Hampi, Karnataka",
-                "image_url": "https://example.com/evolve_back_hampi.jpg",
+                "ref":"https://www.evolveback.com/evolve-back-hampi/",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/96975347.jpg?k=23fbab9c84fbf12a696604772fdc21e70a3545aa963c4aefc165bed460a9782b&o=&hp=1",
                 "ratings": 4.7,
                 "amenities": [
                     "Luxury Stay",
@@ -990,7 +1018,8 @@
             {
                 "name": "Clarks Inn Hampi",
                 "location": "Hampi, Karnataka",
-                "image_url": "https://example.com/clarks_inn_hampi.jpg",
+                "ref":"https://www.theclarkshotels.com/clarks-inn-hampi/",
+                "image_url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201602161154363024-ebe922342ee511e696fd001ec9b85d13.jpg",
                 "ratings": 4.1,
                 "amenities": [
                     "Outdoor Pool",
@@ -1004,7 +1033,8 @@
             {
                 "name": "Hotel Hampi International",
                 "location": "Hospet (near Hampi)",
-                "image_url": "https://example.com/hampi_international.jpg",
+                "ref":"https://www.hotelhampiinternational.com",
+                "image_url": "https://www.hotelhampiinternational.com/img/gallery/1.jpg",
                 "ratings": 3.8,
                 "amenities": [
                     "Restaurant",
@@ -1042,7 +1072,7 @@
     },
     {
         "theme": "Food & Cuisine",
-        "Image": "https://images.unsplash.com/photo-1549520281-a957d69288e8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YW1yaXRzYXJ8ZW58MHx8MHx8fDA%3D",
+        "Image": "https://sacredsites.com/images/asia/india/golden_temple_1200.jpg",
         "title": "Amritsar: Culinary Delights of Punjab",
         "location": "Punjab, India",
         "description": "Amritsar, the spiritual capital of Sikhs, is also a paradise for food lovers, offering a rich tapestry of Punjabi flavors from traditional dhabas to modern eateries.",
@@ -1096,7 +1126,8 @@
             {
                 "name": "Hyatt Regency Amritsar",
                 "location": "Amritsar, Punjab",
-                "image_url": "https://example.com/hyatt_amritsar.jpg",
+                "ref":"https://www.hyatt.com/hyatt-regency/en-US/atqhy-hyatt-regency-amritsar-hotel-and-spa",
+                "image_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2016/10/17/1755/Hyatt-Amritsar-P001-Exterior.jpg/Hyatt-Amritsar-P001-Exterior.4x3.jpg?imwidth=1920",
                 "ratings": 4.5,
                 "amenities": [
                     "Outdoor Pool",
@@ -1110,7 +1141,8 @@
             {
                 "name": "Radisson Blu Hotel Amritsar",
                 "location": "Amritsar, Punjab",
-                "image_url": "https://example.com/radisson_blu_amritsar.jpg",
+                "ref":"https://www.radissonhotels.com/en-us/hotels/radisson-blu-amritsar",
+                "image_url": "https://radissonhotels.iceportal.com/image/radisson-blu-hotel-amritsar/exterior/16256-116509-f79392356_3xl.jpg",
                 "ratings": 4.3,
                 "amenities": [
                     "Outdoor Pool",
@@ -1141,7 +1173,7 @@
     },
     {
         "theme": "Food & Cuisine",
-        "Image": "https://images.unsplash.com/photo-1547595627-c6b8c4c70034?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhcmR5JTIwbW91bnQlMjBhYmludGhvfGVufDB8fDB8fHww",
+        "Image": "https://s7ap1.scene7.com/is/image/incredibleindia/lucknow%20railway%20station-lucknow-uttar%20pradesh-hero?qlt=82&ts=1742160337309",
         "title": "Lucknow: Nawab's Kitchen & Awadhi Delights",
         "location": "Uttar Pradesh, India",
         "description": "Lucknow, the 'City of Nawabs', is synonymous with its refined Awadhi cuisine, known for its slow-cooked delicacies, fragrant biryanis, and melt-in-your-mouth kebabs.",
@@ -1195,7 +1227,8 @@
             {
                 "name": "Taj Mahal Lucknow",
                 "location": "Lucknow, Uttar Pradesh",
-                "image_url": "https://example.com/taj_lucknow.jpg",
+                "ref":"https://www.tajhotels.com/en-in/hotels/taj-mahal-lucknow",
+                "image_url": "https://cdn.sanity.io/images/ocl5w36p/prod5/1708ae8488f01a021979686aae2a1773ec115336-1280x1760.jpg?w=480&auto=format&dpr=2",
                 "ratings": 4.6,
                 "amenities": [
                     "Outdoor Pool",
@@ -1209,7 +1242,8 @@
             {
                 "name": "Hyatt Regency Lucknow",
                 "location": "Lucknow, Uttar Pradesh",
-                "image_url": "https://example.com/hyatt_lucknow.jpg",
+                "ref":"https://www.hyatt.com/hyatt-regency/en-US/lkorl-hyatt-regency-lucknow",
+                "image_url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2017/09/05/1602/Hyatt-Regency-Lucknow-P024-Exterior.jpg/Hyatt-Regency-Lucknow-P024-Exterior.16x9.jpg",
                 "ratings": 4.4,
                 "amenities": [
                     "Rooftop Pool",
@@ -1240,7 +1274,7 @@
     },
     {
         "theme": "Wildlife",
-        "Image": "https://images.unsplash.com/photo-1577002010214-411a00772714?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFudGhhbWJvcmV8ZW58MHx8MHx8fDA%3D",
+        "Image": "https://www.junglecaveranthambore.com/img/ranthambore-fort-unesco.jpg",
         "title": "Ranthambore: Tiger Trails & Fort Heritage",
         "location": "Rajasthan, India",
         "description": "Ranthambore National Park is one of India's most renowned tiger reserves, set against the backdrop of the historic Ranthambore Fort, offering a unique wildlife and historical experience.",
@@ -1294,7 +1328,8 @@
             {
                 "name": "The Oberoi Vanyavilas Wildlife Resort",
                 "location": "Ranthambore, Rajasthan",
-                "image_url": "https://example.com/oberoi_vanyavilas.jpg",
+                "ref":"https://www.oberoihotels.com/hotels-in-ranthambhore-vanyavilas-resort/",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/26/73/49/royal-tents-at-the-oberoi.jpg?w=900&h=500&s=1",
                 "ratings": 4.9,
                 "amenities": [
                     "Luxury Tents",
@@ -1308,7 +1343,8 @@
             {
                 "name": "Sawai Madhopur Lodge - IHCL SeleQtions",
                 "location": "Ranthambore, Rajasthan",
-                "image_url": "https://example.com/sawai_madhopur_lodge.jpg",
+                "ref":"https://www.seleqtionshotels.com/en-in/hotels/sawai-madhopur-lodge-ranthambore",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/626310111.jpg?k=fb313491397a0e6d4b1c9b801e01fddb5d3a43794fb230d7c7c2ee8275e28a6c&o=&hp=1",
                 "ratings": 4.5,
                 "amenities": [
                     "Heritage Property",
@@ -1339,7 +1375,7 @@
     },
     {
         "theme": "Wildlife",
-        "Image": "https://images.unsplash.com/photo-1502602844838-89547d75a1e7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGthbmhhJTIwbmF0aW9uYWwlMjBwYXJrfGVufDB8fDB8fHww",
+        "Image": "https://www.kanhaforest.com/assets/images/bnr/amarkantak.webp",
         "title": "Kanha: The Real Jungle Book Experience",
         "location": "Madhya Pradesh, India",
         "description": "Kanha National Park, with its lush Sal forests, expansive grasslands, and diverse wildlife, is often associated with Rudyard Kipling's 'The Jungle Book'. It's a prime habitat for tigers and the rare Barasingha.",
@@ -1393,7 +1429,8 @@
             {
                 "name": "Banjaar Tola, A Taj Safari - Kanha National Park",
                 "location": "Kanha, Madhya Pradesh",
-                "image_url": "https://example.com/banjaar_tola.jpg",
+                "ref":"https://www.tajhotels.com/en-in/hotels/banjaar-tola-kanha-national-park",
+                "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/2f/26/ad/tent-deck.jpg",
                 "ratings": 4.8,
                 "amenities": [
                     "Luxury Tents",
@@ -1407,7 +1444,8 @@
             {
                 "name": "Kanha Earth Lodge",
                 "location": "Kanha, Madhya Pradesh",
-                "image_url": "https://example.com/kanha_earth_lodge.jpg",
+                "ref":"https://www.kanhaearthlodge.com",
+                "image_url": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201201131102236695-7af1589b-dd8c-46f9-a9c5-e500ba1e0bd9.jpg",
                 "ratings": 4.6,
                 "amenities": [
                     "Eco-Friendly Cottages",
@@ -1438,7 +1476,7 @@
     },
     {
         "theme": "Adventure",
-        "Image": "https://images.unsplash.com/photo-1522204653303-34e9d6d7c674?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmlzaGlrZXNoJTIwcmFmdGluZ3xlbnwwfHwwfHww",
+        "Image": "https://himalayanoutback.com/wp-content/uploads/2022/04/Interesting-Facts-About-Rishikesh.jpg",
         "title": "Rishikesh: Yoga, Rafting & Spiritual Adventure",
         "location": "Uttarakhand, India",
         "description": "Known as the 'Yoga Capital of the World', Rishikesh offers a unique blend of spiritual tranquility and adrenaline-pumping adventure activities along the holy Ganges River.",
@@ -1492,7 +1530,8 @@
             {
                 "name": "Ganga Kinare - A Riverside Boutique Hotel",
                 "location": "Rishikesh, Uttarakhand",
-                "image_url": "https://example.com/ganga_kinare.jpg",
+                "ref":"https://www.gangakinare.com/ganga-kinare-rishikesh-hotel-resort/",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/81/b9/05/jacuzzi-at-macchan.jpg?w=900&h=-1&s=1",
                 "ratings": 4.5,
                 "amenities": [
                     "Riverside Location",
@@ -1506,7 +1545,8 @@
             {
                 "name": "Aloha on the Ganges",
                 "location": "Rishikesh, Uttarakhand",
-                "image_url": "https://example.com/aloha_ganges.jpg",
+                "ref":"https://www.alohaontheganges.com",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86555495.jpg?k=adc2d0a6e5937068a6d245c7b9c249184d6be9087180c14a9f4b37d6d15a4631&o=&hp=1",
                 "ratings": 4.3,
                 "amenities": [
                     "Riverside Resort",
@@ -1537,7 +1577,7 @@
     },
     {
         "theme": "Adventure",
-        "Image": "https://images.unsplash.com/photo-1621644026330-81f7d4323e20?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNpayBraW1lJTIwaGltYWNoYWx5fGVufDB8fDB8fHww",
+        "Image": "https://www.travelgangtok.com/storage/ObqYpplQqPKy8s4EEvrRAPkzZbWJeI6Xu4Ugd0eL.jpg",
         "title": "Sikkim: Himalayan Treks & Pristine Beauty",
         "location": "Sikkim, India",
         "description": "Sikkim, a serene Himalayan state, offers incredible adventure opportunities from high-altitude trekking to mountaineering, amidst its pristine natural beauty.",
@@ -1591,7 +1631,8 @@
             {
                 "name": "Mayfair Gangtok",
                 "location": "Gangtok, Sikkim",
-                "image_url": "https://example.com/mayfair_gangtok.jpg",
+                "ref":"https://www.mayfairhotels.com/spa-resort-casino-gangtok/",
+                "image_url": "https://assets.simplotel.com/simplotel/image/upload/x_68,y_0,w_1600,h_904,r_0/q_80,w_1600,dpr_1,f_auto,fl_progressive,c_limit/mayfair-spa-resort-casino-gangtok/G4_my5gly",
                 "ratings": 4.6,
                 "amenities": [
                     "Luxury Resort",
@@ -1605,7 +1646,8 @@
             {
                 "name": "Hotel Sonam Delek",
                 "location": "Gangtok, Sikkim",
-                "image_url": "https://example.com/sonam_delek_gangtok.jpg",
+                "ref":"https://www.hotelsonamdelek.com",
+                "image_url": "https://www.hotelsonamdelek.com/Documents/Hotel/20240806_1018084917.jpg",
                 "ratings": 4.2,
                 "amenities": [
                     "Mountain Views",
@@ -1636,7 +1678,7 @@
     },
     {
         "theme": "Cultural",
-        "Image": "https://images.unsplash.com/photo-1596707328678-04f762696614?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amFpcHVyfGVufDB8fDB8fHww",
+        "Image": "https://s7ap1.scene7.com/is/image/incredibleindia/jal-mahal-jaipur-rajasthan-1-attr-hero?qlt=82&ts=1742162446740",
         "title": "Jaipur: Royal Heritage & Vibrant Culture",
         "location": "Rajasthan, India",
         "description": "Jaipur, the 'Pink City', is a vibrant cultural hub in Rajasthan, known for its majestic forts, opulent palaces, colorful bazaars, and rich Rajput heritage.",
@@ -1690,7 +1732,8 @@
             {
                 "name": "Jai Mahal Palace",
                 "location": "Jaipur, Rajasthan",
-                "image_url": "https://example.com/jai_mahal_palace.jpg",
+                "ref":"https://www.tajhotels.com/en-in/hotels/jai-mahal-palace-jaipur",
+                "image_url": "https://image.wedmegood.com/resized/720X/uploads/member/25687/1448536826_JaiMahal02m.jpg",
                 "ratings": 4.7,
                 "amenities": [
                     "Heritage Property",
@@ -1704,7 +1747,8 @@
             {
                 "name": "ITC Rajputana, a Luxury Collection Hotel",
                 "location": "Jaipur, Rajasthan",
-                "image_url": "https://example.com/itc_rajputana.jpg",
+                "ref":"https://www.itchotels.com/in/en/itcrajputana-jaipur",
+                "image_url": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-rajputana.jpg",
                 "ratings": 4.5,
                 "amenities": [
                     "Traditional Decor",
@@ -1735,7 +1779,7 @@
     },
     {
         "theme": "Cultural",
-        "Image": "https://images.unsplash.com/photo-1579563333190-2521a2c3a3b0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGtpbmdoYW0lMjBpbmRpYXxlbnwwfHwwfHww",
+        "Image": "https://wpblogassets.paytm.com/travelblog/uploads/2023/10/Best-Time-to-Visit-Varanasi-HERO-1.jpg",
         "title": "Varanasi: Spiritual Heart & Ancient Traditions",
         "location": "Uttar Pradesh, India",
         "description": "Varanasi, one of the oldest living cities in the world, is India's spiritual capital, renowned for its sacred Ganges River, ancient ghats, and vibrant Hindu rituals and traditions.",
@@ -1789,7 +1833,8 @@
             {
                 "name": "Taj Ganges, Varanasi",
                 "location": "Varanasi, Uttar Pradesh",
-                "image_url": "https://example.com/taj_ganges_varanasi.jpg",
+                "ref":"https://www.tajhotels.com/en-in/hotels/taj-ganges-varanasi",
+                "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/2c/20/d0/12/hero-picture.jpg",
                 "ratings": 4.4,
                 "amenities": [
                     "Outdoor Pool",
@@ -1803,7 +1848,8 @@
             {
                 "name": "Hotel Clarks Varanasi",
                 "location": "Varanasi, Uttar Pradesh",
-                "image_url": "https://example.com/clarks_varanasi.jpg",
+                "ref":"https://www.clarkshotels.com",
+                "image_url": "https://assets.simplotel.com/simplotel/image/upload/w_5000,h_2717/x_0,y_386,w_5000,h_1945,c_crop,q_80,fl_progressive/w_900,h_506,f_auto,c_fit/the-clarks-varanasi/Facade",
                 "ratings": 4.0,
                 "amenities": [
                     "Outdoor Pool",
@@ -1834,7 +1880,7 @@
     },
     {
         "theme": "Shopping",
-        "Image": "https://images.unsplash.com/photo-1518170068307-5e60d3d5f309?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGRlbGhpJTIwc2hvcHBpbmd8ZW58MHx8MHx8fDA%3D",
+        "Image": "https://www.travelandleisure.com/thmb/iAIrOVW7yWrDG8pZBpKMOvEGuNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/new-delhi-india-NEWDELHITG0721-60d592e1603349298a0206d67d08582b.jpg",
         "title": "Delhi: A Shopper's Paradise",
         "location": "Delhi, India",
         "description": "Delhi offers an unparalleled shopping experience, from traditional bazaars to upscale malls, catering to every taste and budget, with a focus on textiles, handicrafts, and modern fashion.",
@@ -1877,7 +1923,8 @@
             {
                 "name": "The Leela Palace New Delhi",
                 "location": "Chanakyapuri, New Delhi",
-                "image_url": "https://example.com/leela_palace_delhi.jpg",
+                "ref":"https://www.theleela.com/the-leela-palace-new-delhi",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/1f/25/b1/exterior-day.jpg?w=900&h=500&s=1",
                 "ratings": 4.8,
                 "amenities": [
                     "Luxury Rooms",
@@ -1891,7 +1938,8 @@
             {
                 "name": "Shangri-La Eros New Delhi",
                 "location": "Connaught Place, New Delhi",
-                "image_url": "https://example.com/shangrila_delhi.jpg",
+                "ref":"https://www.shangri-la.com/newdelhi/erosshangrila/?WT.mc_id=SLND_2024_MEIA-India_SEM_GOOGLE_AON_BRANDINTERNATIONAL_RSA_TEXTLINK_EN-NA_Shangri-la%20eros-SLND&gclsrc=aw.ds&gad_source=1&gad_campaignid=12052913206&gbraid=0AAAAADh8v_PGUv_P_irGBRYgqcVNDWqDO&gclid=Cj0KCQjwyvfDBhDYARIsAItzbZG2ur6TXwumRc89t9oZoLn5SPqtYHmHb_z4cAh6xhY0qpj6RsorxlkaAqkZEALw_wcB",
+                "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/d1/c6/06/shangri-la-eros-new-delhi.jpg?w=900&h=500&s=1",
                 "ratings": 4.6,
                 "amenities": [
                     "Outdoor Pool",
@@ -1922,7 +1970,7 @@
     },
     {
         "theme": "Shopping",
-        "Image": "https://images.unsplash.com/photo-1517441991410-6d40f4a477ce?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZHVib2klMjBzY3J1YnxlbnwwfHwwfHww",
+        "Image": "https://cdn.britannica.com/15/189715-050-4310222B/Dubai-United-Arab-Emirates-Burj-Khalifa-top.jpg",
         "title": "Dubai: Grandeur & Retail Therapy",
         "location": "UAE",
         "description": "Dubai is a global shopping destination, famous for its colossal malls, traditional souks, luxury brands, and duty-free shopping, offering an experience of grandeur and variety.",
@@ -1976,7 +2024,8 @@
             {
                 "name": "Address Downtown",
                 "location": "Downtown Dubai",
-                "image_url": "https://example.com/address_downtown_dubai.jpg",
+                "ref":"https://www.addresshotels.com/en/hotels/address-downtown/",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181840500.jpg?k=21c1941c4e9dbb6b721223b98ec7ae0359f6feab4937b892498fcdda295d05df&o=&hp=1",
                 "ratings": 4.8,
                 "amenities": [
                     "Burj Khalifa Views",
@@ -1990,7 +2039,8 @@
             {
                 "name": "JW Marriott Marquis Hotel Dubai",
                 "location": "Business Bay, Dubai",
-                "image_url": "https://example.com/jw_marriott_marquis_dubai.jpg",
+                "ref":"https://www.marriott.com/en-us/hotels/dxbjw-jw-marriott-marquis-hotel-dubai/overview/",
+                "image_url": "https://cache.marriott.com/content/dam/marriott-digital/jw/emea/hws/d/dxbjw/en_us/photo/unlimited/assets/dxbjw-exterior-0210.jpg",
                 "ratings": 4.7,
                 "amenities": [
                     "Two Towers",
@@ -2021,7 +2071,7 @@
     },
     {
         "theme": "Relaxation",
-        "Image": "https://images.unsplash.com/photo-1506544976450-9d5c5890b07b?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhZGk1fGVufDB8fDB8fHww",
+        "Image": "https://lp-cms-production.imgix.net/2025-04/shutterstock2454866115.jpg?auto=format,compress&q=72&w=1440&h=810&fit=crop",
         "title": "Kerala: Backwaters & Ayurvedic Retreats",
         "location": "Kerala, India",
         "description": "Kerala, 'God's Own Country', offers unparalleled relaxation with its serene backwaters, tranquil beaches, lush spice plantations, and world-renowned Ayurvedic wellness centers.",
@@ -2075,7 +2125,8 @@
             {
                 "name": "Kumarakom Lake Resort",
                 "location": "Kumarakom, Kerala (Backwaters)",
-                "image_url": "https://example.com/kumarakom_lake_resort.jpg",
+                "ref":"https://www.kumarakomlakeresort.in",
+                "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/15267628.jpg?k=b433a8f9052c211a0403c40de9863fda483a10f2972670c28eaef138746349ca&o=&hp=1",
                 "ratings": 4.8,
                 "amenities": [
                     "Traditional Cottages",
@@ -2089,7 +2140,8 @@
             {
                 "name": "Marari Beach, CGH Earth",
                 "location": "Mararikulam, Kerala",
-                "image_url": "https://example.com/marari_beach_cgh.jpg",
+                "ref":"https://www.cghearth.com/marari-beach",
+                "image_url": "https://www.cghearth.com/uploads/uploadimage/20190531115554ammararibeach-living.jpg",
                 "ratings": 4.7,
                 "amenities": [
                     "Beachfront Cottages",
@@ -2120,7 +2172,7 @@
     },
     {
         "theme": "Relaxation",
-        "Image": "https://images.unsplash.com/photo-1543789976-b997b11ce8e2?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGJhbGklMjByZWxheGF0aW9ufGVufDB8fDB8fHww",
+        "Image": "https://select-rep.com/wp-content/uploads/Bali-e1679321320443.jpg",
         "title": "Bali: Island of Gods & Tranquil Escapes",
         "location": "Indonesia",
         "description": "Bali, the 'Island of Gods', is a spiritual and serene destination, offering lush rice paddies, volcanic mountains, vibrant arts, and world-class wellness retreats for ultimate relaxation.",
@@ -2174,7 +2226,8 @@
             {
                 "name": "Mulia Resort & Villas Nusa Dua",
                 "location": "Nusa Dua, Bali",
-                "image_url": "https://example.com/mulia_bali.jpg",
+                "ref":"https://www.themulia.com/bali/mulia-resort",
+                "image_url": "https://content.themulia.com/proxy/https://cdn.prod.website-files.com/6624ff6a5db57a668993dd5e/67038eafe9a946b8e90cf9f5_MRB%20-%20Ladies%20Courtyard.webp",
                 "ratings": 4.7,
                 "amenities": [
                     "Beachfront",
@@ -2188,7 +2241,8 @@
             {
                 "name": "Four Seasons Resort Bali at Sayan",
                 "location": "Ubud, Bali",
-                "image_url": "https://example.com/four_seasons_sayan.jpg",
+                "ref":"https://www.fourseasons.com/sayan/",
+                "image_url": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2009/10326/10326_0_fourseasonssayanbali_fsa-g.jpg",
                 "ratings": 4.9,
                 "amenities": [
                     "Riverside Villas",

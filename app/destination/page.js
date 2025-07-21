@@ -127,7 +127,7 @@ export default function DestinationPage() {
                                             selectedDestination.hotels.map((hotel, index) => (
                                                 <div key={index} className="hotel-card">
                                                     <div className="hotel-image">
-                                                        <img src={hotel.image_url || "/images/hotels/default-hotel.jpg"} alt={hotel.name} />
+                                                        <img src={hotel.image_url} alt={hotel.name} />
                                                     </div>
                                                     <div className="hotel-details">
                                                         <div className="hotel-header">
@@ -150,9 +150,9 @@ export default function DestinationPage() {
                                                     <div className="hotel-booking">
                                                         <div className="hotel-price">
                                                             <span className="price">₹ {hotel.price_per_night.toLocaleString()}</span>
-                                                            <span className="per-night">per night</span>
+                                                            <span className="per-night">Avg. per night</span>
                                                         </div>
-                                                        <a className="book-now-btn">Visit Now</a>
+                                                        <a href={hotel.ref} className="book-now-btn">Visit Now</a>
                                                     </div>
                                                 </div>
                                             )) :
