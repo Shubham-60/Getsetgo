@@ -155,7 +155,7 @@ export default function DestinationPage() {
                                                         <a href={hotel.ref} className="book-now-btn">Visit Now</a>
                                                     </div>
                                                 </div>
-                                            )) :
+                                            )):
                                             <p>No hotels available</p>
                                         }
                                     </div>
