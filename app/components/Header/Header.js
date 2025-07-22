@@ -1,7 +1,7 @@
 "use client";
 
 import Link from 'next/link';
-import Image from 'next/image';
+import { SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/nextjs';
 import { useState } from 'react';
 import "./style.css";
 
@@ -23,18 +23,18 @@ export default function Header() {
           <Link href="/about">About</Link>
           <Link href="/contact">Contact</Link>
         </nav>
-        {/* <div className="auth-buttons">
-          <button className="login-button" onClick={toggleGate}>
-          <Image 
-              src={isGateOpen ? "./images/login.svg" : "./images/logout.svg"} 
-              alt={isGateOpen ? "Logout" : "Login"} 
-              width={20} 
-              height={20} 
-              className="gate-icon"
-            />
-            {isGateOpen ? 'Logout' : 'Login'}
-          </button>
-        </div> */}
+        <div className="auth-buttons">
+          <SignedOut>
+            <SignInButton>
+              <button className="login-button">
+                Sign In
+              </button>
+            </SignInButton>
+          </SignedOut>
+          <SignedIn>
+            <UserButton />
+          </SignedIn>
+        </div>
       </div>
     </header>
   );
