@@ -4,7 +4,7 @@ import "./Form.css";
 
 const interests = ["Beaches", "Mountains", "Historical Sites", "Food & Cuisine", "Wildlife", "Adventure", "Cultural", "Shopping", "Relaxation"];
 
-const travelStyles = ["Balanced Experience", "Luxury", "Budget", "Family Friendly", "Solo Adventure"];
+const travelStyles = ["Balanced Experience", "Luxury", "Budget"];
 
 export default function Form() {
     const [selectedInterests, setSelectedInterests] = useState([]);
