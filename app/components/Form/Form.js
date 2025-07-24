@@ -1,5 +1,6 @@
 "use client"
 import React, { useState } from "react";
+import { useRouter } from "next/navigation";
 import "./Form.css";
 
 const interests = ["Beaches", "Mountains", "Historical Sites", "Food & Cuisine", "Wildlife", "Adventure", "Cultural", "Shopping", "Relaxation"];
@@ -9,6 +10,7 @@ const travelStyles = ["Balanced Experience", "Luxury", "Budget"];
 export default function Form() {
     const [selectedInterests, setSelectedInterests] = useState([]);
     const [travelStyle, setTravelStyle] = useState(travelStyles[0])
+    const router = useRouter();
 
 
     const toggleInterest = (interest) => {
@@ -18,6 +20,17 @@ export default function Form() {
                 : [...prev, interest]
         );
     };
+
+    const handleSubmit = () => {
+        if (selectedInterests.length === 0) {
+            alert("Please select at least one interest!");
+            return;
+        }
+        // Saving interest + go to result pg
+        localStorage.setItem('userInterests', JSON.stringify(selectedInterests));
+        router.push('/results');
+    };
+
 
     return (
         <div id="travel-form" className="form-bg">
@@ -57,7 +70,7 @@ export default function Form() {
                         </select>
                     </div>
                 </div>
-                <button className="form-submit-btn">
+                <button className="form-submit-btn" onClick={handleSubmit}>
                     Find My Perfect Destination
                 </button>
                 <div className="form-helper-text">

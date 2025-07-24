@@ -1,0 +1,77 @@
+.results-page {
+    min-height: 100vh;
+    background-color: #f8f9fa;
+    padding: 40px 20px;
+}
+
+.results-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.results-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.results-title {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.results-subtitle {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.results-count {
+    color: #8a6fff;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.destinations-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 25px;
+    margin-bottom: 40px;
+}
+
+.btn-secondary {
+    padding: 12px 24px;
+    background-color: #f0f0f0;
+    color: #333;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.btn-secondary:hover {
+    background-color: #e0e0e0;
+}
+
+.back-section {
+    text-align: center;
+    margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+    .results-title {
+        font-size: 2rem;
+    }
+    
+    .destinations-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .results-page {
+        padding: 20px 10px;
+    }
+}
