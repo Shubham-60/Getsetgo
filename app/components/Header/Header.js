@@ -1,16 +1,11 @@
 "use client";
 
 import Link from 'next/link';
-import { SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/nextjs';
-import { useState } from 'react';
+import { SignedIn, SignedOut, SignInButton, UserButton, useUser } from '@clerk/nextjs';
 import "./style.css";
 
 export default function Header() {
-  const [isGateOpen, setIsGateOpen] = useState(false);
-  
-  const toggleGate = () => {
-    setIsGateOpen(!isGateOpen);
-  };
+  const { user } = useUser();
   return (
     <header className="header">
       <div className="header-container">
@@ -32,7 +27,12 @@ export default function Header() {
             </SignInButton>
           </SignedOut>
           <SignedIn>
-            <UserButton />
+            <div className="user-info">
+                <span className="username">
+                  Hello, {user?.username || 'User'}!
+                </span>
+              <UserButton />
+            </div>
           </SignedIn>
         </div>
       </div>

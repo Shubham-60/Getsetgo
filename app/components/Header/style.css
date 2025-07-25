@@ -81,3 +81,15 @@ nav > a:hover::after {
 .login-button:hover {
     background-color: #7E69AB;
 }
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .username {
+    font-weight: 500;
+    color: #333;
+    font-size: 0.9rem;
+  }
